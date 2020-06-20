@@ -1,0 +1,962 @@
+969,1400,250,No,Gas,0380,English
+Sub 1,000136000,Married,04,04,10,08,Single attached,1,3,Mortgage,Before 1939,3200,140,No,Gas,1700,Other European
+Sub 1,000136000,Married,05,00,03,08,Single detached,4,2,Mortgage,1950-1959,2800,160,No,Gas,2000,English
+Sub 1,000136000,Married,05,01,04,07,Single detached,3,2,Mortgage,1940-1949,2200,180,No,Gas,1500,Asian Pacific
+Sub 1,000136000,Married,05,02,04,11,Single detached,3,2,Mortgage,1990-1999,6500,450,No,Oil,4500,English
+Sub 1,000136000,Married,08,02,04,11,Single detached,3,1,Mortgage,Before 1939,1100,090,No,Gas,1800,English
+Sub 1,000136020,Married,04,00,02,09,Single detached,2,2,Mortgage,1990-1999,2000,100,No,Oil,1500,Other European
+Sub 1,000136050,Married,04,02,04,09,Single detached,2,2,Mortgage,1970-1979,1200,080,No,Gas,0500,English
+Sub 1,000136080,Married,04,02,04,09,Single detached,2,2,Mortgage,2007,2100,130,No,Gas,0710,English
+Sub 1,000136100,Married,02,00,03,05,Single attached,0,2,Mortgage,1940-1949,2600,260,No,Gas,1200,English
+Sub 1,000136100,Married,03,00,03,05,Single detached,1,2,Mortgage,1960-1969,3400,120,No,Gas,1200,Spanish
+Sub 1,000136100,Married,03,00,03,06,Single detached,5,2,Mortgage,1970-1979,1400,240,No,Electricity,0700,English
+Sub 1,000136100,Married,05,00,03,10,Single attached,1,3,Mortgage,1980-1989,1300,130,No,Gas,2000,Spanish
+Sub 1,000136150,Married,03,00,02,06,Single detached,2,2,Mortgage,Before 1939,2000,080,No,Gas,2600,English
+Sub 1,000136200,Married,05,02,08,07,Single attached,2,3,Mortgage,1940-1949,2400,190,No,Gas,2000,Asian Pacific
+Sub 1,000136270,Female Head,01,00,02,06,Single attached,2,2,Mortgage,1980-1989,2290,300,No,Gas,0300,English
+Sub 1,000136300,Married,03,02,04,07,Single attached,2,2,Mortgage,1950-1959,1600,200,No,Oil,0900,Spanish
+Sub 1,000136400,Married,02,02,04,06,Single attached,1,2,Mortgage,Before 1939,2500,040,No,Gas,2200,Spanish
+Sub 1,000136400,Married,03,00,02,07,Single detached,3,2,Mortgage,1960-1969,1400,100,No,Oil,0900,English
+Sub 1,000136400,Married,04,01,04,08,Single detached,3,3,Mortgage,1970-1979,1800,140,No,Oil,0100,English
+Sub 1,000136500,Married,03,01,04,06,Single detached,2,3,Mortgage,1970-1979,2200,180,No,Oil,1500,Other European
+Sub 1,000136500,Married,04,00,03,11,Single detached,2,3,Mortgage,Before 1939,430,130,No,Oil,0600,English
+Sub 1,000136500,Married,08,00,04,11,Single detached,4,2,Mortgage,Before 1939,3800,070,No,Gas,2000,Other European
+Sub 1,000136520,Married,02,00,02,04,Single attached,1,2,Mortgage,1940-1949,1300,080,No,Gas,0480,Asian Pacific
+Sub 1,000136530,Married,04,01,04,09,Single detached,2,1,Mortgage,Before 1939,1600,300,No,Gas,1100,English
+Sub 1,000136600,Married,03,00,02,05,Single detached,3,0,Mortgage,1950-1959,1700,160,No,Gas,1500,English
+Sub 1,000136630,Married,04,03,05,09,Single detached,2,3,Mortgage,Before 1939,750,180,No,Gas,1000,English
+Sub 1,000136650,Married,00,02,05,02,Single detached,3,3,Mortgage,1960-1969,1400,140,No,Gas,0440,English
+Sub 1,000136660,Male Head,03,02,05,08,Single detached,2,3,Mortgage,Before 1939,600,090,Yes,Wood,0400,English
+Sub 1,000136700,Married,04,03,09,08,Single detached,3,3,Mortgage,1960-1969,1600,180,Yes,Oil,1100,Spanish
+Sub 1,000136710,Married,04,00,04,08,Single detached,2,3,Mortgage,Before 1939,770,210,No,Gas,0450,English
+Sub 1,000136730,Married,04,01,04,07,Single detached,2,3,Mortgage,1940-1949,2600,210,No,Oil,1300,English
+Sub 1,000136760,Married,04,03,05,09,Single detached,2,2,Mortgage,1990-1999,790,150,No,Gas,0570,English
+Sub 1,000136800,Married,03,00,03,07,Single detached,1,3,Mortgage,Before 1939,510,210,No,Gas,1300,English
+Sub 1,000136800,Married,03,03,06,07,Single detached,2,2,Mortgage,Before 1939,2100,190,No,Gas,1200,English
+Sub 1,000136900,Married,03,00,04,07,Single detached,4,3,Mortgage,1940-1949,290,150,No,Gas,0700,English
+Sub 1,000136900,Married,04,00,04,08,Single detached,4,3,Mortgage,1950-1959,300,260,No,Oil,1200,Spanish
+Sub 1,000136900,Married,05,00,03,09,Single attached,2,1,Mortgage,Before 1939,590,150,No,Gas,0,English
+Sub 1,000136900,Married,05,02,06,08,Single detached,2,3,Mortgage,Before 1939,1100,140,Yes,Gas,1400,Spanish
+Sub 1,000136960,Married,03,01,04,08,Single attached,2,3,Mortgage,1940-1949,1600,240,No,Gas,1500,English
+Sub 1,000136980,Female Head,04,00,03,11,Single detached,1,2,Mortgage,1940-1949,3400,110,No,Gas,1500,English
+Sub 1,000137000,Female Head,03,00,04,05,Single detached,1,3,Mortgage,Before 1939,1500,260,No,Electricity,6600,English
+Sub 1,000137000,Married,03,00,02,06,Single attached,2,2,Mortgage,Before 1939,110,130,No,Gas,1200,English
+Sub 1,000137000,Married,03,00,02,06,Single detached,2,2,Mortgage,1980-1989,1200,100,No,Gas,0800,English
+Sub 1,000137000,Married,03,00,02,08,Single attached,1,2,Mortgage,2008,2110,150,No,Gas,0690,English
+Sub 1,000137000,Married,03,00,02,08,Single detached,2,2,Mortgage,Before 1939,1800,310,No,Gas,0500,English
+Sub 1,000137000,Married,03,00,02,08,Single detached,2,2,Mortgage,1960-1969,270,190,No,Oil,0400,English
+Sub 1,000137000,Married,03,00,02,08,Single detached,3,2,Mortgage,Before 1939,1300,430,No,Oil,1200,English
+Sub 1,000137000,Married,03,00,03,07,Single detached,1,2,Mortgage,1940-1949,1100,170,No,Gas,2000,Spanish
+Sub 1,000137000,Married,03,00,03,07,Single detached,2,3,Mortgage,Before 1939,2500,200,No,Oil,2000,Spanish
+Sub 1,000137000,Married,03,00,03,08,Single detached,3,3,Mortgage,1960-1969,1600,100,No,Gas,2500,English
+Sub 1,000137000,Married,03,01,03,05,Single detached,2,2,Mortgage,1940-1949,1100,070,No,Wood,0540,English
+Sub 1,000137000,Married,03,01,03,05,Single detached,2,2,Mortgage,1960-1969,2800,300,No,Electricity,1000,Spanish
+Sub 1,000137000,Married,03,01,03,06,Single detached,2,2,Mortgage,1960-1969,2000,220,No,Gas,1200,English
+Sub 1,000137000,Married,03,01,03,06,Single detached,3,2,Mortgage,1940-1949,1600,090,No,Gas,0500,English
+Sub 1,000137000,Married,03,01,05,07,Single detached,4,2,Mortgage,1940-1949,2000,170,No,Gas,1400,English
+Sub 1,000137000,Married,03,02,04,06,Single detached,2,2,Mortgage,1960-1969,2800,100,No,Oil,1300,Asian Pacific
+Sub 1,000137000,Married,03,02,04,08,Single attached,1,2,Mortgage,1940-1949,3400,200,No,Gas,1200,Other European
+Sub 1,000137000,Married,03,02,04,08,Single attached,2,2,Mortgage,Before 1939,1970,140,No,Gas,0700,Other European
+Sub 1,000137000,Married,03,02,06,08,Single attached,2,3,Mortgage,Before 1939,3500,190,No,Gas,0300,Other European
+Sub 1,000137000,Married,03,02,07,05,Single detached,2,2,Rented,1960-1969,1600,150,No,Gas,0,Other European
+Sub 1,000137000,Married,04,00,02,07,Single detached,2,2,Mortgage,1950-1959,250,090,No,Wood,0600,English
+Sub 1,000137000,Married,04,00,02,08,Single attached,2,1,Mortgage,1940-1949,780,190,No,Gas,1300,English
+Sub 1,000137000,Married,04,00,02,09,Single detached,3,2,Mortgage,Before 1939,3500,200,No,Gas,3500,Spanish
+Sub 1,000137000,Married,04,00,05,09,Single detached,4,3,Mortgage,2000-2004,2200,280,No,Gas,1900,English
+Sub 1,000137000,Married,04,01,03,08,Single detached,3,2,Mortgage,1980-1989,680,090,No,Gas,0800,English
+Sub 1,000137000,Married,04,01,03,09,Single detached,3,2,Mortgage,1980-1989,1700,180,No,Gas,0300,English
+Sub 1,000137000,Married,04,01,05,06,Single detached,3,3,Mortgage,1950-1959,2500,180,No,Gas,1100,English
+Sub 1,000137000,Married,04,02,04,09,Single detached,1,1,Mortgage,1980-1989,1900,120,No,Gas,0800,English
+Sub 1,000137000,Married,08,00,02,06,Single detached,3,1,Mortgage,1970-1979,3200,320,No,Gas,2400,English
+Sub 1,000137050,Married,03,00,03,08,Single detached,2,1,Mortgage,2008,650,250,No,Gas,0600,English
+Sub 1,000137100,Married,03,02,04,05,Single detached,2,3,Mortgage,Before 1939,1100,100,No,Gas,1000,English
+Sub 1,000137100,Married,04,06,08,08,Single attached,2,2,Mortgage,Before 1939,1700,100,No,Gas,1400,English
+Sub 1,000137200,Female Head,03,00,04,06,Single detached,3,2,Mortgage,1980-1989,2300,050,No,Gas,3800,English
+Sub 1,000137200,Female Head,03,01,04,06,Single detached,2,2,Mortgage,1950-1959,1100,400,No,Gas,1100,Spanish
+Sub 1,000137200,Married,03,01,08,06,Single detached,4,3,Mortgage,Before 1939,2800,320,No,Gas,0800,Spanish
+Sub 1,000137300,Married,04,03,05,09,Single detached,3,2,Rented,Before 1939,1500,420,No,Gas,0,Other European
+Sub 1,000137400,Married,04,00,03,07,Single attached,4,3,Mortgage,1950-1959,1800,200,No,Gas,1000,English
+Sub 1,000137400,Married,04,03,05,09,Single detached,4,2,Mortgage,2000-2004,1100,150,No,Gas,0510,English
+Sub 1,000137500,Married,02,00,02,06,Single attached,2,1,Mortgage,1990-1999,220,200,No,Gas,0300,English
+Sub 1,000137500,Married,03,01,04,05,Single detached,1,3,Mortgage,Before 1939,1600,180,No,Gas,1200,Other European
+Sub 1,000137500,Married,03,02,04,06,Single detached,3,2,Mortgage,1980-1989,1200,100,No,Gas,0830,English
+Sub 1,000137600,Married,04,01,03,07,Single attached,1,2,Mortgage,Before 1939,2000,580,No,Gas,1200,English
+Sub 1,000137670,Male Head,03,00,04,05,Single detached,4,3,Rented,1950-1959,1500,190,No,Oil,0,English
+Sub 1,000137700,Married,03,00,03,06,Single detached,2,3,Mortgage,Before 1939,540,240,No,Gas,0800,Other European
+Sub 1,000137700,Married,08,01,06,10,Single detached,6,2,Mortgage,1970-1979,2700,280,No,Oil,1300,Spanish
+Sub 1,000137710,Married,03,00,02,06,Single detached,2,2,Mortgage,1970-1979,420,150,No,Gas,1200,English
+Sub 1,000137780,Married,02,00,03,06,Single detached,2,1,Mortgage,1960-1969,2400,310,No,Oil,1800,English
+Sub 1,000137800,Married,03,02,04,08,Single detached,3,2,Mortgage,1950-1959,2700,160,No,Gas,0970,Spanish
+Sub 1,000137800,Married,04,02,04,09,Single detached,2,2,Mortgage,1950-1959,1900,300,No,Oil,0500,English
+Sub 1,000137800,Married,08,01,05,10,Single detached,4,2,Mortgage,1970-1979,1900,180,No,Oil,0,English
+Sub 1,000137810,Married,03,00,03,06,Single detached,3,3,Mortgage,Before 1939,2900,110,No,Gas,0650,Asian Pacific
+Sub 1,000137900,Married,04,00,03,10,Single detached,2,3,Mortgage,Before 1939,500,400,No,Oil,1400,English
+Sub 1,000138000,Female Head,02,01,02,05,Single attached,2,1,Mortgage,1980-1989,2730,250,No,Electricity,1000,English
+Sub 1,000138000,Female Head,03,00,02,05,Single attached,2,2,Mortgage,1990-1999,2000,080,No,Electricity,0800,English
+Sub 1,000138000,Female Head,03,01,02,09,Single attached,2,1,Mortgage,Before 1939,2300,200,No,Gas,1400,English
+Sub 1,000138000,Female Head,04,01,02,10,Single detached,2,1,Mortgage,1960-1969,1400,130,No,Gas,1000,English
+Sub 1,000138000,Male Head,04,00,05,10,Single attached,2,3,Mortgage,Before 1939,1500,200,Yes,Gas,1200,English
+Sub 1,000138000,Married,03,00,02,08,Single detached,1,2,Mortgage,1950-1959,2500,280,No,Oil,1300,English
+Sub 1,000138000,Married,03,00,02,10,Single detached,2,2,Mortgage,1970-1979,2300,060,No,Electricity,1000,English
+Sub 1,000138000,Married,03,00,03,07,Single detached,3,3,Mortgage,1950-1959,350,350,No,Oil,1200,English
+Sub 1,000138000,Married,03,01,03,06,Single detached,2,2,Mortgage,Before 1939,500,120,No,Gas,0400,English
+Sub 1,000138000,Married,03,01,03,09,Single detached,2,2,Mortgage,1940-1949,920,160,No,Gas,0690,English
+Sub 1,000138000,Married,03,01,04,06,Single detached,2,3,Mortgage,1950-1959,700,120,No,Gas,0850,English
+Sub 1,000138000,Married,03,02,04,05,Single detached,2,2,Mortgage,Before 1939,2300,120,No,Gas,1000,English
+Sub 1,000138000,Married,03,02,04,06,Single detached,2,2,Mortgage,Before 1939,2300,110,No,Oil,1600,Spanish
+Sub 1,000138000,Married,03,02,04,06,Single detached,2,2,Mortgage,Before 1939,1900,110,No,Gas,0950,English
+Sub 1,000138000,Married,03,02,04,07,Single detached,2,2,Mortgage,Before 1939,3500,140,No,Gas,1200,English
+Sub 1,000138000,Married,03,03,05,06,Single detached,2,2,Mortgage,1950-1959,2900,180,No,Gas,1500,Other
+Sub 1,000138000,Married,03,04,06,07,Single attached,2,1,Mortgage,1970-1979,1700,270,No,Gas,1000,English
+Sub 1,000138000,Married,04,00,02,06,Single detached,2,2,Mortgage,1960-1969,2500,170,No,Oil,1200,English
+Sub 1,000138000,Married,04,00,02,08,Single detached,4,2,Mortgage,1940-1949,300,480,No,Gas,1400,English
+Sub 1,000138000,Married,04,00,02,09,Single detached,2,2,Mortgage,1950-1959,1300,240,No,Oil,3300,English
+Sub 1,000138000,Married,04,01,03,06,Single detached,2,2,Mortgage,1950-1959,2500,270,No,Gas,3000,Other European
+Sub 1,000138000,Married,04,01,03,08,Single detached,2,2,Mortgage,2009,1200,150,No,Gas,0,English
+Sub 1,000138000,Married,04,01,06,11,Single detached,3,2,Mortgage,Before 1939,880,350,No,Gas,0800,English
+Sub 1,000138000,Married,04,02,04,08,Single detached,2,2,Mortgage,2000-2004,1300,090,No,Gas,0600,English
+Sub 1,000138000,Married,04,02,04,08,Single detached,2,2,Mortgage,2000-2004,1900,100,No,Gas,0500,English
+Sub 1,000138000,Married,04,02,04,10,Single detached,2,1,Mortgage,1980-1989,3000,110,No,Oil,1500,English
+Sub 1,000138000,Married,04,03,05,08,Single detached,2,2,Mortgage,1940-1949,650,230,No,Gas,0600,English
+Sub 1,000138000,Married,04,03,05,08,Single detached,2,2,Mortgage,1990-1999,1900,090,No,Gas,0400,English
+Sub 1,000138000,Married,08,01,03,10,Single attached,2,2,Mortgage,1940-1949,1500,300,No,Gas,1500,Other
+Sub 1,000138000,Married,08,02,06,11,Single detached,1,3,Mortgage,1950-1959,2500,500,No,Gas,4000,Other
+Sub 1,000138000,Married,08,03,09,10,Single detached,4,3,Mortgage,1960-1969,2900,290,No,Gas,1000,Spanish
+Sub 1,000138040,Married,03,00,03,08,Single attached,3,2,Mortgage,1950-1959,2000,350,No,Gas,1500,English
+Sub 1,000138040,Married,04,02,04,09,Single detached,2,2,Mortgage,1970-1979,1200,100,No,Gas,0640,English
+Sub 1,000138100,Married,03,00,03,07,Single detached,3,1,Mortgage,1960-1969,150,080,No,Gas,0780,English
+Sub 1,000138100,Married,04,00,02,07,Single detached,2,2,Mortgage,1960-1969,430,120,No,Gas,0300,English
+Sub 1,000138100,Married,04,03,05,10,Single detached,3,2,Mortgage,1940-1949,4000,260,No,Oil,1300,English
+Sub 1,000138200,Male Head,04,02,09,08,Single detached,3,2,Mortgage,1960-1969,2600,500,Yes,Gas,1800,Spanish
+Sub 1,000138300,Married,03,00,03,06,Single detached,4,0,Mortgage,1950-1959,2300,220,No,Gas,1500,English
+Sub 1,000138340,Married,04,02,04,08,Single detached,1,3,Mortgage,1940-1949,2200,120,No,Gas,1100,English
+Sub 1,000138400,Married,04,00,02,07,Single detached,3,2,Mortgage,1960-1969,900,300,No,Gas,1100,Other European
+Sub 1,000138400,Married,04,00,04,08,Single detached,2,3,Mortgage,1950-1959,1400,004,No,Oil,0700,English
+Sub 1,000138400,Married,04,02,04,10,Single detached,2,2,Mortgage,1950-1959,3200,310,No,Oil,2000,English
+Sub 1,000138480,Married,05,00,02,11,Single detached,2,0,Mortgage,1950-1959,960,240,No,Oil,1400,English
+Sub 1,000138500,Female Head,05,00,02,10,Single attached,1,1,Mortgage,1960-1969,1400,050,No,Gas,1300,Other European
+Sub 1,000138500,Married,03,01,03,06,Single attached,1,2,Mortgage,Before 1939,1900,080,No,Oil,1000,Other European
+Sub 1,000138500,Married,03,01,04,06,Single detached,3,3,Mortgage,1960-1969,100,140,No,Gas,0800,English
+Sub 1,000138600,Married,02,00,02,04,Single detached,2,1,Rented,1940-1949,1400,170,No,Oil,0,English
+Sub 1,000138600,Married,03,00,03,06,Single detached,2,2,Mortgage,Before 1939,1200,130,No,Gas,1500,English
+Sub 1,000138600,Married,04,01,04,08,Single detached,3,2,Mortgage,1980-1989,1600,100,No,Oil,0,Spanish
+Sub 1,000138600,Married,04,01,05,08,Single detached,4,3,Mortgage,1980-1989,1500,280,Yes,Oil,0600,English
+Sub 1,000138640,Married,03,01,04,06,Single detached,3,3,Mortgage,1960-1969,2000,220,No,Oil,1900,English
+Sub 1,000138800,Married,03,02,04,06,Single detached,2,2,Mortgage,1980-1989,2580,100,No,Gas,1200,Other
+Sub 1,000138800,Married,04,00,03,08,Single detached,2,3,Mortgage,1980-1989,940,180,No,Gas,0550,English
+Sub 1,000138800,Married,04,01,03,13,Single detached,2,2,Mortgage,Before 1939,900,080,No,Gas,1400,English
+Sub 1,000138800,Married,05,00,03,08,Single detached,3,3,Mortgage,1970-1979,2400,400,No,Oil,1200,English
+Sub 1,000139000,Female Head,03,00,04,06,Single detached,2,3,Mortgage,Before 1939,2000,150,No,Oil,1000,English
+Sub 1,000139000,Married,02,00,02,11,Single detached,2,2,Mortgage,1950-1959,1200,200,No,Gas,0,English
+Sub 1,000139000,Married,02,00,04,04,Single detached,2,3,Mortgage,Before 1939,2300,100,No,Gas,0,Spanish
+Sub 1,000139000,Married,03,00,02,09,Single detached,2,1,Rented,Before 1939,730,080,No,Gas,0,Other European
+Sub 1,000139000,Married,03,01,03,08,Single detached,2,2,Mortgage,1960-1969,2200,400,No,Gas,0750,English
+Sub 1,000139000,Married,03,02,04,08,Single detached,2,1,Mortgage,1950-1959,1800,300,No,Gas,1700,English
+Sub 1,000139000,Married,04,01,03,11,Single detached,2,2,Mortgage,1980-1989,3200,150,No,Gas,1300,English
+Sub 1,000139000,Married,04,01,05,07,Single detached,3,3,Mortgage,Before 1939,600,150,No,Gas,0460,English
+Sub 1,000139000,Married,04,03,05,06,Single detached,2,2,Mortgage,2005,1800,200,No,Gas,0500,English
+Sub 1,000139000,Married,04,03,05,08,Single detached,3,1,Rented,Before 1939,2900,170,No,Oil,0,English
+Sub 1,000139100,Married,02,00,02,04,Single detached,2,2,Mortgage,1990-1999,380,170,No,Oil,1000,Other European
+Sub 1,000139100,Married,03,02,05,05,Single attached,2,2,Mortgage,1960-1969,2000,080,No,Gas,1600,English
+Sub 1,000139200,Married,03,02,06,06,Single detached,3,3,Mortgage,1950-1959,1800,340,No,Electricity,0680,Spanish
+Sub 1,000139300,Married,02,00,04,04,Single attached,3,3,Outright,1940-1949,810,001,No,Oil,0210,Other European
+Sub 1,000139300,Married,04,01,04,10,Single detached,2,3,Mortgage,1940-1949,2200,240,No,Oil,0700,English
+Sub 1,000139400,Married,02,00,02,06,Single detached,2,0,Mortgage,1970-1979,370,200,No,Gas,0520,English
+Sub 1,000139500,Female Head,04,00,06,06,Single detached,3,3,Mortgage,1940-1949,1500,240,No,Gas,1200,English
+Sub 1,000139500,Married,03,00,02,09,Single detached,2,2,Mortgage,1950-1959,2600,080,No,Gas,2500,English
+Sub 1,000139500,Married,03,00,03,07,Single detached,3,2,Mortgage,1950-1959,2300,210,No,Oil,2000,English
+Sub 1,000139500,Married,04,01,04,08,Single detached,3,3,Mortgage,Before 1939,650,110,No,Gas,0,English
+Sub 1,000139520,Married,03,02,05,06,Single attached,2,3,Mortgage,1940-1949,2800,580,No,Gas,1800,Other
+Sub 1,000139560,Married,03,01,04,08,Single detached,2,3,Mortgage,1940-1949,2800,080,No,Gas,1100,Other European
+Sub 1,000139600,Female Head,05,00,03,11,Single detached,4,2,Mortgage,1950-1959,1600,260,No,Oil,0870,English
+Sub 1,000139600,Married,03,02,05,05,Single detached,4,3,Mortgage,1970-1979,660,100,No,Gas,0500,Other European
+Sub 1,000139600,Married,04,00,02,06,Single detached,2,2,Mortgage,1960-1969,1000,120,No,Gas,0480,English
+Sub 1,000139640,Female Head,04,00,06,08,Single attached,1,3,Mortgage,1960-1969,2300,250,No,Gas,0200,English
+Sub 1,000139670,Married,04,00,04,08,Single detached,4,3,Mortgage,1990-1999,1400,130,No,Gas,0680,English
+Sub 1,000139730,Married,04,01,03,08,Single detached,2,2,Mortgage,1950-1959,1500,210,No,Electricity,0400,English
+Sub 1,000139800,Married,01,00,03,05,Single attached,2,3,Mortgage,Before 1939,1600,080,No,Gas,0,Asian Pacific
+Sub 1,000139800,Married,03,00,04,09,Single detached,3,3,Mortgage,1970-1979,1600,120,No,Gas,1400,English
+Sub 1,000139800,Married,05,00,02,10,Single detached,2,2,Mortgage,Before 1939,2800,150,No,Gas,0820,English
+Sub 1,000139800,Married,05,00,04,08,Single detached,1,2,Mortgage,1940-1949,2200,130,No,Gas,0500,English
+Sub 1,000139800,Married,05,00,06,10,Single detached,4,3,Mortgage,Before 1939,1400,250,No,Gas,2500,Other European
+Sub 1,000139900,Female Head,04,00,03,07,Single detached,1,2,Mortgage,Before 1939,2200,150,Yes,Oil,0800,English
+Sub 1,000139900,Married,04,01,04,08,Single detached,3,3,Mortgage,2000-2004,1700,130,No,Gas,0430,English
+Sub 1,000139900,Married,05,00,02,10,Single detached,3,1,Mortgage,1960-1969,1600,150,No,Oil,1100,English
+Sub 1,000140000,Female Head,02,00,02,04,Single attached,2,2,Mortgage,1950-1959,740,050,No,Gas,0270,English
+Sub 1,000140000,Female Head,03,00,03,06,Single detached,2,3,Mortgage,1950-1959,1500,090,No,Oil,2000,English
+Sub 1,000140000,Female Head,04,00,05,08,Single detached,4,3,Mortgage,1940-1949,1200,100,No,Oil,1000,Spanish
+Sub 1,000140000,Male Head,04,00,04,07,Single detached,3,2,Mortgage,1960-1969,1400,260,No,Gas,0010,English
+Sub 1,000140000,Married,02,00,02,04,Single attached,2,2,Rented,1970-1979,1600,150,No,Gas,0,English
+Sub 1,000140000,Married,02,00,02,05,Single attached,2,2,Mortgage,2000-2004,1860,300,No,Gas,0500,English
+Sub 1,000140000,Married,02,00,02,05,Single detached,1,2,Mortgage,1950-1959,4400,200,No,Gas,1500,English
+Sub 1,000140000,Married,02,00,02,05,Single detached,2,2,Mortgage,1950-1959,1000,140,No,Gas,0600,English
+Sub 1,000140000,Married,02,00,02,05,Single detached,2,2,Mortgage,1950-1959,2500,150,No,Gas,4000,English
+Sub 1,000140000,Married,02,01,03,05,Single attached,2,2,Mortgage,1990-1999,2600,350,No,Gas,2000,English
+Sub 1,000140000,Married,03,00,02,04,Single detached,2,2,Mortgage,1970-1979,2800,400,No,Gas,1000,English
+Sub 1,000140000,Married,03,00,02,05,Single attached,2,2,Mortgage,1980-1989,1100,200,No,Oil,0080,English
+Sub 1,000140000,Married,03,00,02,05,Single detached,2,2,Mortgage,1950-1959,1900,110,No,Gas,1600,Asian Pacific
+Sub 1,000140000,Married,03,00,02,06,Single detached,2,2,Mortgage,2000-2004,1800,150,No,Gas,0,Other European
+Sub 1,000140000,Married,03,00,02,07,Single attached,2,2,Mortgage,1990-1999,2600,070,No,Gas,1200,English
+Sub 1,000140000,Married,03,00,02,07,Single detached,2,1,Mortgage,1990-1999,2000,100,No,Oil,1000,Other European
+Sub 1,000140000,Married,03,00,02,07,Single detached,2,2,Mortgage,1950-1959,3100,310,No,Oil,1200,English
+Sub 1,000140000,Married,03,00,02,08,Single detached,3,2,Rented,1950-1959,840,150,No,Oil,0,English
+Sub 1,000140000,Married,03,00,02,09,Single detached,2,2,Mortgage,1990-1999,1500,150,No,Gas,0600,English
+Sub 1,000140000,Married,03,00,03,07,Single detached,3,3,Mortgage,Before 1939,340,130,No,Gas,0700,English
+Sub 1,000140000,Married,03,00,04,07,Single attached,4,3,Mortgage,Before 1939,500,140,No,Gas,2000,English
+Sub 1,000140000,Married,03,00,04,11,Single detached,4,3,Mortgage,1990-1999,650,100,No,Gas,0850,English
+Sub 1,000140000,Married,03,01,03,06,Single attached,2,2,Mortgage,1940-1949,2500,140,No,Gas,1400,English
+Sub 1,000140000,Married,03,01,03,06,Single detached,2,2,Mortgage,Before 1939,1200,100,No,Gas,0600,English
+Sub 1,000140000,Married,03,01,03,06,Single detached,2,2,Mortgage,Before 1939,2200,130,No,Gas,1000,Spanish
+Sub 1,000140000,Married,03,01,03,07,Single detached,2,2,Mortgage,1960-1969,1800,070,No,Oil,0650,English
+Sub 1,000140000,Married,03,01,04,06,Single detached,6,3,Mortgage,1950-1959,2400,150,No,Gas,0,English
+Sub 1,000140000,Married,03,01,05,06,Single detached,2,1,Mortgage,Before 1939,1900,330,No,Oil,0900,Spanish
+Sub 1,000140000,Married,03,01,05,10,Single detached,3,3,Mortgage,1970-1979,1300,190,No,Gas,1000,English
+Sub 1,000140000,Married,03,02,04,05,Single detached,2,1,Mortgage,1970-1979,2300,360,No,Gas,2000,English
+Sub 1,000140000,Married,03,02,04,06,Single detached,2,2,Mortgage,1940-1949,3600,310,No,Oil,1000,Other European
+Sub 1,000140000,Married,03,02,04,06,Single detached,2,2,Mortgage,1950-1959,2900,150,No,Oil,0950,English
+Sub 1,000140000,Married,03,02,04,06,Single detached,2,2,Mortgage,1960-1969,2500,170,No,Oil,1200,English
+Sub 1,000140000,Married,03,02,04,06,Single detached,3,2,Mortgage,Before 1939,4600,580,No,Gas,3000,Other European
+Sub 1,000140000,Married,03,02,04,07,Single attached,2,2,Mortgage,2007,2490,330,No,Gas,0400,Asian Pacific
+Sub 1,000140000,Married,03,02,04,07,Single detached,1,2,Mortgage,1940-1949,1900,330,No,Gas,1000,Spanish
+Sub 1,000140000,Married,03,02,04,07,Single detached,2,1,Mortgage,Before 1939,3000,090,No,Gas,0800,Spanish
+Sub 1,000140000,Married,03,02,04,07,Single detached,2,2,Mortgage,1960-1969,3000,580,No,Oil,2000,English
+Sub 1,000140000,Married,03,02,04,07,Single detached,2,2,Mortgage,1960-1969,2200,300,No,Oil,1000,English
+Sub 1,000140000,Married,03,02,04,08,Single detached,0,2,Mortgage,1950-1959,3400,430,No,Gas,1000,English
+Sub 1,000140000,Married,03,02,04,08,Single detached,2,2,Mortgage,1960-1969,2700,250,No,Oil,1700,Other European
+Sub 1,000140000,Married,03,02,04,09,Single detached,2,2,Mortgage,1960-1969,1400,120,No,Gas,0800,English
+Sub 1,000140000,Married,03,02,05,05,Single detached,1,2,Mortgage,Before 1939,2000,100,No,Gas,2000,Other European
+Sub 1,000140000,Married,03,02,05,06,Single attached,2,3,Mortgage,1990-1999,3700,380,No,Gas,1600,Spanish
+Sub 1,000140000,Married,03,02,05,06,Single detached,3,3,Mortgage,2000-2004,3000,400,No,Gas,0700,Spanish
+Sub 1,000140000,Married,03,02,05,11,Single detached,2,3,Mortgage,1980-1989,1000,170,No,Gas,0900,Other European
+Sub 1,000140000,Married,03,03,05,06,Single attached,1,1,Mortgage,Before 1939,1200,500,No,Gas,1700,English
+Sub 1,000140000,Married,03,03,05,06,Single detached,2,2,Mortgage,Before 1939,3000,140,No,Gas,1200,English
+Sub 1,000140000,Married,03,03,05,08,Single detached,2,2,Mortgage,1970-1979,2300,140,No,Oil,1400,Spanish
+Sub 1,000140000,Married,04,00,02,06,Single detached,1,1,Mortgage,1950-1959,740,160,No,Oil,0270,English
+Sub 1,000140000,Married,04,00,02,10,Single attached,2,2,Rented,1950-1959,1100,200,No,Gas,0,English
+Sub 1,000140000,Married,04,00,04,07,Single attached,3,3,Mortgage,1980-1989,1600,130,No,Gas,0880,Other European
+Sub 1,000140000,Married,04,00,05,12,Single detached,3,1,Mortgage,Before 1939,4000,250,No,Gas,4000,Other European
+Sub 1,000140000,Married,04,01,03,08,Single detached,2,2,Mortgage,1980-1989,1900,440,No,Electricity,0800,English
+Sub 1,000140000,Married,04,01,04,05,Single detached,2,2,Mortgage,1960-1969,2800,180,No,Gas,1000,English
+Sub 1,000140000,Married,04,01,05,10,Single detached,5,3,Mortgage,2006,810,470,No,Gas,0950,English
+Sub 1,000140000,Married,04,02,04,06,Single detached,2,2,Mortgage,1950-1959,2600,180,No,Gas,1900,Asian Pacific
+Sub 1,000140000,Married,04,02,04,07,Single detached,2,2,Mortgage,1950-1959,600,230,No,Oil,1400,English
+Sub 1,000140000,Married,04,02,04,09,Single detached,2,2,Mortgage,Before 1939,2300,280,No,Oil,1800,English
+Sub 1,000140000,Married,04,02,04,10,Single detached,2,1,Mortgage,1960-1969,2200,220,No,Gas,1200,English
+Sub 1,000140000,Married,04,03,05,06,Single detached,2,1,Mortgage,1990-1999,2300,100,No,Gas,0800,English
+Sub 1,000140000,Married,04,03,05,07,Single detached,2,2,Mortgage,1960-1969,3000,280,No,Gas,1000,English
+Sub 1,000140000,Married,04,03,05,08,Single detached,2,2,Mortgage,1950-1959,3200,250,No,Oil,0800,English
+Sub 1,000140000,Married,04,03,05,08,Single detached,3,2,Mortgage,2000-2004,2500,250,No,Gas,0,English
+Sub 1,000140000,Married,04,03,05,09,Single detached,2,2,Mortgage,Before 1939,3500,220,No,Gas,2500,Other
+Sub 1,000140000,Married,05,00,03,11,Single detached,2,1,Mortgage,1990-1999,6500,220,No,Gas,6600,English
+Sub 1,000140000,Married,05,00,09,08,Single detached,2,3,Mortgage,1940-1949,3000,230,Yes,Gas,1700,Asian Pacific
+Sub 1,000140000,Married,05,02,04,06,Single detached,2,2,Mortgage,1960-1969,1200,580,No,Electricity,0600,English
+Sub 1,000140000,Married,05,04,06,08,Single detached,2,2,Mortgage,1960-1969,710,200,No,Gas,1100,English
+Sub 1,000140000,Married,08,00,03,11,Single detached,4,3,Mortgage,1950-1959,910,350,No,Oil,1400,English
+Sub 1,000140020,Married,04,02,04,05,Single detached,2,2,Mortgage,1950-1959,2300,300,No,Oil,1200,English
+Sub 1,000140060,Married,04,00,03,08,Single detached,2,3,Mortgage,1950-1959,3100,150,No,Oil,0,Asian Pacific
+Sub 1,000140100,Female Head,04,00,03,08,Single detached,2,2,Mortgage,1950-1959,3000,180,No,Oil,3000,English
+Sub 1,000140100,Female Head,04,01,04,08,Single detached,3,2,Mortgage,1990-1999,2600,230,Yes,Oil,3500,Spanish
+Sub 1,000140100,Married,03,00,02,05,Single detached,2,2,Mortgage,1950-1959,1100,200,No,Gas,0300,English
+Sub 1,000140100,Married,03,00,02,06,Single detached,2,2,Mortgage,Before 1939,1100,120,No,Gas,2500,English
+Sub 1,000140100,Married,03,00,03,06,Single detached,3,2,Mortgage,1950-1959,730,120,No,Gas,0600,English
+Sub 1,000140100,Married,04,00,02,08,Single detached,2,1,Mortgage,Before 1939,1600,170,No,Gas,0580,English
+Sub 1,000140100,Married,04,00,02,12,Single attached,2,0,Mortgage,Before 1939,3100,250,No,Oil,2100,English
+Sub 1,000140120,Male Head,03,01,02,09,Single detached,2,1,Mortgage,Before 1939,740,060,No,Gas,0650,English
+Sub 1,000140200,Married,03,00,02,07,Single detached,2,2,Mortgage,1950-1959,910,100,No,Oil,1500,English
+Sub 1,000140200,Married,03,01,03,05,Single attached,2,2,Mortgage,1990-1999,1400,140,No,Gas,0790,Asian Pacific
+Sub 1,000140200,Married,03,02,04,06,Single detached,1,2,Mortgage,1940-1949,600,040,No,Gas,0240,English
+Sub 1,000140230,Married,03,00,02,08,Single detached,3,2,Mortgage,1990-1999,2300,130,No,Oil,1100,English
+Sub 1,000140250,Married,04,03,05,09,Single detached,0,1,Mortgage,1960-1969,3000,300,No,Gas,2300,English
+Sub 1,000140300,Female Head,04,00,05,08,Single attached,1,3,Mortgage,1940-1949,2200,500,No,Gas,3600,Spanish
+Sub 1,000140300,Married,04,03,05,08,Single attached,2,2,Mortgage,1940-1949,2200,420,No,Gas,2000,English
+Sub 1,000140450,Married,03,00,02,11,Single detached,2,2,Mortgage,Before 1939,530,080,No,Gas,0730,English
+Sub 1,000140500,Married,03,00,03,06,Single detached,3,2,Mortgage,Before 1939,500,130,No,Oil,2400,Asian Pacific
+Sub 1,000140500,Married,03,00,03,08,Single detached,3,3,Mortgage,2000-2004,1600,090,No,Gas,1000,English
+Sub 1,000140500,Married,03,01,06,05,Single detached,2,2,Mortgage,1950-1959,2700,160,Yes,Oil,0900,Other European
+Sub 1,000140500,Married,04,00,02,07,Single detached,1,2,Mortgage,1940-1949,920,080,No,Gas,1800,English
+Sub 1,000140500,Married,05,01,03,10,Single detached,2,2,Mortgage,1970-1979,3400,150,No,Oil,0250,English
+Sub 1,000140600,Married,03,00,03,07,Single detached,3,3,Mortgage,1950-1959,3000,110,No,Oil,2500,Spanish
+Sub 1,000140600,Married,05,03,05,10,Single detached,2,2,Mortgage,1960-1969,1700,150,No,Gas,0680,English
+Sub 1,000140700,Married,03,02,04,07,Single detached,2,3,Mortgage,1960-1969,1200,170,No,Oil,0550,English
+Sub 1,000140700,Married,04,00,03,10,Single detached,3,3,Mortgage,1950-1959,2700,300,No,Gas,2200,English
+Sub 1,000140700,Married,05,00,05,08,Single detached,4,3,Mortgage,Before 1939,1600,190,Yes,Gas,0820,English
+Sub 1,000140750,Married,03,00,02,07,Single attached,1,1,Mortgage,1950-1959,1500,070,No,Gas,0950,Spanish
+Sub 1,000140800,Married,03,02,04,06,Single detached,3,2,Mortgage,1950-1959,1800,400,No,Oil,1200,English
+Sub 1,000140860,Married,03,00,02,06,Single attached,2,0,Outright,1990-1999,580,080,No,Electricity,1600,English
+Sub 1,000140900,Married,04,02,06,08,Single detached,3,3,Mortgage,1970-1979,2800,160,No,Oil,1700,English
+Sub 1,000141000,Married,02,00,02,06,Single detached,2,2,Mortgage,1960-1969,1200,070,No,Gas,1000,English
+Sub 1,000141000,Married,03,00,04,06,Single detached,3,3,Mortgage,1950-1959,1400,220,No,Gas,1100,English
+Sub 1,000141000,Married,03,01,03,05,Single detached,2,2,Mortgage,1940-1949,2600,030,No,Oil,1200,English
+Sub 1,000141000,Married,03,02,04,07,Single attached,2,2,Mortgage,1940-1949,2500,240,No,Oil,1600,English
+Sub 1,000141000,Married,03,02,04,07,Single detached,2,2,Mortgage,1950-1959,2100,220,No,Gas,1400,English
+Sub 1,000141000,Married,03,02,05,05,Single detached,2,1,Mortgage,2005,6500,130,No,Gas,6600,Spanish
+Sub 1,000141000,Married,03,02,05,06,Single attached,3,3,Mortgage,Before 1939,2500,150,No,Gas,1700,Spanish
+Sub 1,000141000,Married,04,00,02,08,Single detached,2,2,Mortgage,Before 1939,2000,030,No,Gas,1200,English
+Sub 1,000141000,Married,04,00,02,09,Single detached,2,2,Mortgage,Before 1939,200,050,No,Oil,0600,English
+Sub 1,000141000,Married,04,00,03,06,Single detached,3,3,Mortgage,1940-1949,2700,250,No,Gas,2600,English
+Sub 1,000141000,Married,04,02,04,07,Single detached,1,1,Mortgage,1980-1989,2400,380,No,Oil,0,English
+Sub 1,000141000,Married,04,02,04,07,Single detached,2,2,Mortgage,Before 1939,1600,400,No,Oil,1100,English
+Sub 1,000141000,Married,04,02,04,10,Single detached,2,2,Mortgage,1950-1959,3800,200,No,Gas,1700,English
+Sub 1,000141000,Married,04,02,05,08,Single detached,3,3,Mortgage,1960-1969,1400,090,No,Gas,0800,English
+Sub 1,000141000,Married,04,03,05,08,Single detached,2,1,Mortgage,Before 1939,2200,430,No,Electricity,1000,English
+Sub 1,000141000,Married,04,03,05,08,Single detached,2,2,Mortgage,2000-2004,2700,200,No,Gas,0900,English
+Sub 1,000141000,Married,04,03,05,11,Single detached,3,2,Mortgage,2000-2004,850,180,No,Gas,0500,English
+Sub 1,000141000,Married,08,01,03,09,Single detached,2,2,Mortgage,1950-1959,380,260,No,Oil,2100,Other European
+Sub 1,000141100,Married,04,02,04,08,Single detached,2,3,Mortgage,1960-1969,1700,370,No,Gas,2400,English
+Sub 1,000141200,Married,03,00,04,06,Single detached,4,1,Mortgage,Before 1939,80,210,Yes,Gas,1800,English
+Sub 1,000141200,Married,04,00,02,09,Single detached,2,2,Mortgage,1950-1959,1600,380,No,Oil,1200,English
+Sub 1,000141200,Married,04,00,03,06,Single detached,3,3,Mortgage,1950-1959,700,300,No,Oil,0800,Other European
+Sub 1,000141200,Married,04,00,03,07,Single detached,3,3,Mortgage,1970-1979,2300,260,No,Oil,0400,English
+Sub 1,000141200,Married,04,02,04,10,Single detached,2,2,Mortgage,Before 1939,450,180,No,Oil,0800,English
+Sub 1,000141250,Married,03,00,04,06,Single detached,3,3,Mortgage,1940-1949,3000,120,No,Gas,1000,Asian Pacific
+Sub 1,000141270,Married,03,00,03,08,Single detached,4,2,Mortgage,1950-1959,550,370,No,Oil,0,English
+Sub 1,000141290,Married,03,02,05,07,Single detached,2,3,Mortgage,1970-1979,3300,200,No,Gas,1700,Asian Pacific
+Sub 1,000141300,Married,04,00,02,10,Single detached,2,2,Mortgage,1940-1949,150,320,No,Gas,2500,Other European
+Sub 1,000141300,Married,08,05,10,11,Single detached,2,3,Mortgage,Before 1939,1400,160,No,Electricity,1200,English
+Sub 1,000141310,Married,03,01,04,05,Single detached,3,2,Mortgage,1960-1969,2200,190,No,Gas,1800,Asian Pacific
+Sub 1,000141400,Married,03,00,03,07,Single detached,3,3,Mortgage,Before 1939,540,080,No,Gas,0500,English
+Sub 1,000141400,Married,03,03,05,08,Single detached,2,1,Mortgage,Before 1939,4500,150,No,Gas,2000,English
+Sub 1,000141440,Married,04,01,04,08,Single detached,3,3,Mortgage,Before 1939,2400,140,No,Oil,1500,English
+Sub 1,000141500,Married,02,03,05,05,Single detached,2,1,Mortgage,1940-1949,3600,220,No,Gas,0930,English
+Sub 1,000141500,Married,03,00,03,06,Single detached,0,3,Mortgage,1950-1959,3000,400,No,Gas,2000,English
+Sub 1,000141500,Married,04,00,02,10,Single detached,2,2,Mortgage,Before 1939,1700,290,No,Gas,1200,English
+Sub 1,000141600,Married,03,00,04,08,Single detached,3,3,Mortgage,1950-1959,1700,110,No,Gas,0800,English
+Sub 1,000141600,Married,04,00,07,08,Single detached,4,3,Mortgage,1940-1949,630,300,No,Gas,0450,English
+Sub 1,000141610,Married,03,00,02,06,Single detached,1,1,Mortgage,1940-1949,1000,130,No,Gas,1000,English
+Sub 1,000141620,Married,04,02,04,05,Single detached,2,3,Mortgage,1950-1959,1200,130,No,Gas,0240,English
+Sub 1,000141700,Married,02,00,03,05,Single attached,3,2,Mortgage,1970-1979,1600,250,No,Wood,1200,English
+Sub 1,000141700,Married,03,00,04,21,Single detached,3,2,Mortgage,1950-1959,2400,220,No,Gas,1300,Other European
+Sub 1,000141700,Married,04,00,04,09,Single detached,0,2,Mortgage,1980-1989,170,170,No,Gas,1000,Other European
+Sub 1,000141800,Married,04,00,02,08,Single detached,3,2,Mortgage,1980-1989,510,300,No,Gas,0430,English
+Sub 1,000141800,Married,04,00,03,08,Single detached,2,2,Mortgage,1960-1969,3600,580,No,Oil,2300,English
+Sub 1,000141900,Married,03,00,02,07,Single detached,2,1,Mortgage,1940-1949,350,130,No,Gas,1500,English
+Sub 1,000141910,Married,04,00,05,09,Single detached,4,3,Mortgage,1970-1979,1300,200,No,Gas,0600,Spanish
+Sub 1,000142000,Married,02,00,02,05,Single detached,3,2,Mortgage,1950-1959,200,200,No,Oil,1500,English
+Sub 1,000142000,Married,02,00,03,04,Single detached,2,3,Mortgage,1960-1969,510,150,No,Gas,0900,English
+Sub 1,000142000,Married,02,02,05,05,Single attached,1,3,Mortgage,Before 1939,2300,280,No,Gas,1600,English
+Sub 1,000142000,Married,03,00,02,06,Single detached,1,2,Mortgage,1950-1959,2000,080,No,Gas,0850,English
+Sub 1,000142000,Married,03,00,02,09,Single detached,2,2,Mortgage,2000-2004,1500,290,No,Gas,0760,English
+Sub 1,000142000,Married,03,00,02,09,Single detached,2,2,Mortgage,2000-2004,990,160,No,Gas,0350,English
+Sub 1,000142000,Married,03,00,03,04,Single attached,2,2,Mortgage,Before 1939,1900,130,No,Oil,0800,Other European
+Sub 1,000142000,Married,03,00,03,06,Single detached,4,2,Mortgage,1980-1989,250,140,No,Gas,1200,English
+Sub 1,000142000,Married,03,00,03,07,Single detached,3,3,Mortgage,Before 1939,1400,180,No,Gas,1800,English
+Sub 1,000142000,Married,03,01,03,05,Single attached,2,2,Mortgage,1980-1989,3730,140,No,Gas,0600,English
+Sub 1,000142000,Married,03,01,03,06,Single attached,1,2,Mortgage,Before 1939,2300,180,No,Gas,1200,English
+Sub 1,000142000,Married,03,01,03,06,Single detached,2,2,Mortgage,1960-1969,1300,100,No,Oil,0600,English
+Sub 1,000142000,Married,03,01,03,07,Single detached,2,2,Mortgage,1940-1949,2500,110,No,Gas,0400,English
+Sub 1,000142000,Married,03,01,03,07,Single detached,2,2,Mortgage,1950-1959,800,100,No,Gas,0850,English
+Sub 1,000142000,Married,03,01,03,08,Single detached,3,2,Mortgage,2000-2004,2700,460,No,Oil,1000,English
+Sub 1,000142000,Married,03,02,04,05,Single detached,2,2,Mortgage,1940-1949,1200,120,No,Oil,0270,English
+Sub 1,000142000,Married,03,02,04,05,Single detached,2,2,Mortgage,Before 1939,2300,580,No,Electricity,1800,English
+Sub 1,000142000,Married,03,02,04,06,Single detached,2,1,Mortgage,1940-1949,1600,180,No,Gas,1800,English
+Sub 1,000142000,Married,03,02,04,07,Single detached,2,2,Mortgage,1960-1969,3000,400,No,Gas,0900,Spanish
+Sub 1,000142000,Married,03,02,04,08,Single detached,2,2,Mortgage,2007,1800,090,No,Gas,0450,English
+Sub 1,000142000,Married,03,02,05,09,Single detached,3,3,Mortgage,1950-1959,1700,050,No,Gas,0750,English
+Sub 1,000142000,Married,03,03,05,07,Single detached,2,1,Rented,1970-1979,1500,200,No,Gas,0,English
+Sub 1,000142000,Married,04,00,02,07,Single detached,2,2,Mortgage,1950-1959,1600,100,No,Oil,1500,English
+Sub 1,000142000,Married,04,00,02,07,Single detached,3,2,Mortgage,1960-1969,1400,090,No,Gas,1000,English
+Sub 1,000142000,Married,04,00,02,08,Single detached,2,2,Mortgage,1950-1959,320,120,No,Oil,1500,English
+Sub 1,000142000,Married,04,00,02,08,Single detached,4,2,Mortgage,1960-1969,930,250,No,Gas,0500,English
+Sub 1,000142000,Married,04,00,02,09,Single detached,3,2,Mortgage,1970-1979,1600,200,No,Gas,0600,English
+Sub 1,000142000,Married,04,00,03,08,Single detached,2,1,Mortgage,1980-1989,1200,350,No,Gas,0750,English
+Sub 1,000142000,Married,04,00,04,08,Single detached,4,3,Mortgage,1960-1969,620,150,No,Gas,0850,English
+Sub 1,000142000,Married,04,01,03,08,Single detached,2,2,Mortgage,1960-1969,1900,150,No,Gas,1000,English
+Sub 1,000142000,Married,04,01,04,08,Single detached,3,3,Mortgage,1990-1999,1900,150,No,Gas,0600,English
+Sub 1,000142000,Married,04,01,04,10,Single detached,4,3,Mortgage,1960-1969,2600,230,No,Oil,1200,English
+Sub 1,000142000,Married,04,02,04,07,Single detached,2,2,Mortgage,1940-1949,2500,190,No,Oil,2300,English
+Sub 1,000142000,Married,04,02,04,08,Single detached,2,2,Mortgage,Before 1939,1900,200,No,Gas,0600,English
+Sub 1,000142000,Married,04,02,04,09,Single detached,2,2,Mortgage,1970-1979,1600,160,No,Gas,0750,English
+Sub 1,000142000,Married,04,02,06,08,Single detached,1,2,Mortgage,1970-1979,3600,150,No,Gas,1800,Asian Pacific
+Sub 1,000142000,Married,04,03,05,07,Single detached,3,3,Mortgage,1950-1959,3000,200,No,Oil,1800,English
+Sub 1,000142000,Married,04,03,05,10,Single detached,5,2,Mortgage,Before 1939,720,100,No,Gas,0,English
+Sub 1,000142080,Married,03,03,05,07,Single detached,3,2,Mortgage,1940-1949,3000,260,No,Oil,1200,English
+Sub 1,000142200,Married,03,00,02,05,Single detached,2,2,Mortgage,1980-1989,1200,150,No,Electricity,0680,English
+Sub 1,000142200,Married,03,02,04,05,Single detached,2,3,Mortgage,1990-1999,1800,100,No,Gas,0830,Asian Pacific
+Sub 1,000142300,Married,03,00,02,07,Single detached,3,2,Mortgage,Before 1939,550,060,No,Gas,0600,English
+Sub 1,000142360,Married,03,01,05,06,Single attached,2,3,Mortgage,Before 1939,2500,230,No,Gas,0830,English
+Sub 1,000142370,Married,03,00,02,08,Single detached,2,1,Mortgage,2007,1900,150,No,Gas,0530,English
+Sub 1,000142400,Married,03,01,04,07,Single detached,1,2,Mortgage,Before 1939,2400,120,No,Gas,1500,English
+Sub 1,000142400,Married,05,00,05,07,Single detached,5,2,Mortgage,1990-1999,2600,140,No,Oil,1200,Asian Pacific
+Sub 1,000142400,Married,05,00,06,07,Single detached,2,3,Mortgage,Before 1939,460,300,No,Oil,0490,Spanish
+Sub 1,000142500,Female Head,08,01,10,09,Single detached,5,3,Mortgage,1960-1969,3100,340,Yes,Gas,1300,Spanish
+Sub 1,000142500,Married,04,02,05,09,Single detached,3,3,Mortgage,1990-1999,1200,120,No,Gas,0500,English
+Sub 1,000142500,Married,04,03,05,10,Single detached,2,2,Mortgage,Before 1939,1200,100,No,Gas,0300,English
+Sub 1,000142500,Married,05,00,02,11,Single detached,2,2,Mortgage,Before 1939,660,100,No,Oil,0950,English
+Sub 1,000142520,Married,03,00,02,08,Single detached,3,2,Mortgage,1970-1979,480,110,No,Gas,0770,English
+Sub 1,000142580,Married,04,00,04,09,Single detached,4,2,Mortgage,1940-1949,2600,150,No,Gas,3000,English
+Sub 1,000142800,Married,03,00,02,08,Single detached,2,1,Mortgage,Before 1939,500,100,No,Gas,0900,English
+Sub 1,000142800,Married,04,00,04,07,Single detached,4,3,Mortgage,1940-1949,1900,340,No,Gas,0680,English
+Sub 1,000142900,Married,04,00,02,08,Single detached,2,2,Mortgage,1970-1979,2000,310,No,Gas,0710,English
+Sub 1,000142930,Married,04,00,03,09,Single detached,2,3,Mortgage,1940-1949,3000,140,No,Gas,1700,English
+Sub 1,000142960,Married,03,00,04,06,Single detached,2,3,Mortgage,1970-1979,2500,490,No,Gas,1800,English
+Sub 1,000143000,Married,02,00,02,06,Single detached,2,1,Mortgage,Before 1939,190,310,No,Electricity,2500,English
+Sub 1,000143000,Married,03,00,02,05,Single detached,2,2,Mortgage,Before 1939,6500,210,No,Gas,1900,English
+Sub 1,000143000,Married,03,00,02,05,Single detached,2,2,Mortgage,1970-1979,800,080,No,Gas,0420,English
+Sub 1,000143000,Married,03,00,02,06,Single detached,2,2,Mortgage,1940-1949,1800,280,No,Gas,1900,English
+Sub 1,000143000,Married,03,00,02,08,Single attached,2,2,Mortgage,1940-1949,2100,040,No,Gas,1000,English
+Sub 1,000143000,Married,03,00,02,09,Single attached,2,2,Rented,Before 1939,1800,001,No,Oil,0,English
+Sub 1,000143000,Married,03,00,03,09,Single detached,4,2,Mortgage,1970-1979,150,150,No,Gas,0830,English
+Sub 1,000143000,Married,03,00,04,08,Single detached,2,3,Mortgage,1950-1959,2500,190,No,Oil,1300,Spanish
+Sub 1,000143000,Married,03,02,04,06,Single detached,2,2,Mortgage,1950-1959,2100,130,No,Oil,1900,English
+Sub 1,000143000,Married,03,02,04,08,Single detached,2,2,Mortgage,1990-1999,1300,200,No,Gas,0,English
+Sub 1,000143000,Married,03,02,04,10,Single detached,2,1,Mortgage,1960-1969,2100,280,No,Oil,2500,Spanish
+Sub 1,000143000,Married,04,00,02,07,Single detached,2,2,Mortgage,Before 1939,1900,070,No,Gas,1500,English
+Sub 1,000143000,Married,04,00,04,07,Single detached,5,3,Mortgage,1970-1979,270,130,No,Gas,0830,English
+Sub 1,000143000,Married,04,01,03,08,Single detached,2,2,Mortgage,1980-1989,2300,400,No,Oil,0,English
+Sub 1,000143000,Married,04,02,04,07,Single detached,2,2,Mortgage,2007,2000,200,No,Gas,0620,English
+Sub 1,000143000,Married,04,02,04,08,Single detached,2,2,Mortgage,1970-1979,2800,160,No,Gas,1500,English
+Sub 1,000143000,Married,04,03,05,07,Single detached,3,2,Mortgage,1950-1959,1000,230,No,Gas,0500,English
+Sub 1,000143000,Married,05,00,04,10,Single detached,3,3,Mortgage,1960-1969,2500,350,No,Electricity,4000,English
+Sub 1,000143000,Married,05,03,05,09,Single detached,2,2,Mortgage,1940-1949,1500,260,No,Gas,0600,English
+Sub 1,000143010,Married,03,02,04,09,Single detached,3,2,Mortgage,2000-2004,970,080,No,Gas,0,English
+Sub 1,000143020,Married,04,00,02,08,Single detached,2,2,Mortgage,Before 1939,810,090,No,Gas,0410,English
+Sub 1,000143050,Married,03,02,04,05,Single detached,2,2,Mortgage,1950-1959,1600,150,No,Oil,0600,English
+Sub 1,000143100,Married,04,00,03,08,Single detached,2,1,Mortgage,1970-1979,2900,500,No,Gas,1800,English
+Sub 1,000143200,Married,03,00,04,06,Single detached,4,3,Mortgage,Before 1939,2000,280,No,Oil,3000,English
+Sub 1,000143200,Married,04,00,05,07,Single detached,4,2,Mortgage,1960-1969,570,250,No,Oil,0900,English
+Sub 1,000143300,Married,04,00,03,07,Single detached,2,2,Mortgage,1940-1949,1800,150,No,Gas,1500,English
+Sub 1,000143330,Married,02,00,03,06,Single detached,3,3,Mortgage,Before 1939,1000,080,No,Wood,0400,English
+Sub 1,000143330,Married,04,01,05,10,Single detached,2,3,Mortgage,1990-1999,670,110,No,Gas,0780,Spanish
+Sub 1,000143400,Married,04,00,03,08,Single detached,3,2,Mortgage,1950-1959,2000,250,No,Gas,3000,Other European
+Sub 1,000143400,Married,05,01,03,21,Single detached,2,2,Mortgage,1940-1949,1400,500,No,Gas,1200,English
+Sub 1,000143500,Married,03,01,03,08,Single detached,4,2,Mortgage,1950-1959,1100,190,No,Oil,1600,English
+Sub 1,000143500,Married,04,01,04,07,Single detached,3,3,Mortgage,2006,4000,250,No,Gas,1500,Other European
+Sub 1,000143600,Married,04,00,04,10,Single detached,5,3,Mortgage,1970-1979,1000,330,No,Gas,0800,Other European
+Sub 1,000143600,Married,04,01,04,08,Single detached,1,2,Mortgage,1950-1959,2400,300,No,Oil,1200,English
+Sub 1,000143650,Married,05,00,06,09,Single detached,3,3,Mortgage,1970-1979,1300,320,Yes,Oil,3200,English
+Sub 1,000143700,Married,03,00,04,05,Single detached,4,3,Mortgage,1980-1989,450,100,No,Wood,0450,English
+Sub 1,000143700,Married,03,02,04,07,Single detached,2,2,Mortgage,1960-1969,2100,270,No,Oil,0800,Other European
+Sub 1,000143710,Married,04,00,02,09,Single detached,0,2,Mortgage,Before 1939,1900,120,No,Oil,1600,English
+Sub 1,000143800,Female Head,03,00,02,08,Single detached,2,1,Mortgage,1950-1959,870,170,No,Gas,2500,English
+Sub 1,000143800,Married,04,01,03,08,Single detached,2,2,Mortgage,Before 1939,4000,200,No,Gas,1400,English
+Sub 1,000143900,Married,03,00,03,06,Single attached,0,1,Mortgage,1990-1999,1600,070,Yes,Gas,1500,English
+Sub 1,000143910,Married,05,00,04,09,Single detached,4,3,Mortgage,2000-2004,2300,060,No,Gas,0770,Spanish
+Sub 1,000143980,Married,03,02,04,09,Single detached,2,2,Mortgage,1970-1979,980,300,No,Electricity,1000,English
+Sub 1,000144000,Female Head,04,00,02,09,Single detached,2,2,Mortgage,1970-1979,1800,280,No,Gas,1200,English
+Sub 1,000144000,Male Head,03,00,02,08,Single detached,1,1,Mortgage,1990-1999,1700,110,No,Oil,0,English
+Sub 1,000144000,Male Head,03,00,04,06,Single detached,3,2,Mortgage,1950-1959,1400,260,No,Oil,0990,English
+Sub 1,000144000,Married,02,01,03,06,Single detached,1,2,Mortgage,Before 1939,2400,290,No,Gas,1400,Spanish
+Sub 1,000144000,Married,03,00,02,05,Single detached,2,2,Mortgage,1990-1999,1400,130,No,Gas,0400,English
+Sub 1,000144000,Married,03,00,02,06,Single detached,3,2,Mortgage,1960-1969,1000,160,No,Gas,0,English
+Sub 1,000144000,Married,03,00,03,06,Single attached,2,3,Mortgage,Before 1939,2200,070,No,Gas,1200,English
+Sub 1,000144000,Married,03,00,04,08,Single detached,3,3,Mortgage,1950-1959,3000,290,No,Gas,1100,English
+Sub 1,000144000,Married,03,00,04,09,Single detached,0,3,Mortgage,1940-1949,1500,190,No,Oil,2000,English
+Sub 1,000144000,Married,03,01,03,05,Single detached,2,2,Mortgage,1980-1989,3100,160,No,Oil,0500,English
+Sub 1,000144000,Married,03,01,03,10,Single detached,1,2,Mortgage,1940-1949,2800,160,No,Gas,0800,Spanish
+Sub 1,000144000,Married,03,01,04,09,Single detached,3,3,Mortgage,1950-1959,2700,390,No,Gas,2200,English
+Sub 1,000144000,Married,04,00,02,07,Single detached,2,2,Mortgage,1950-1959,2100,260,No,Oil,1500,Other European
+Sub 1,000144000,Married,04,00,03,09,Single detached,4,3,Mortgage,1950-1959,970,090,No,Gas,0750,English
+Sub 1,000144000,Married,04,01,03,07,Single detached,3,1,Mortgage,1960-1969,4200,400,No,Oil,2000,English
+Sub 1,000144000,Married,04,01,03,08,Single detached,2,2,Mortgage,1970-1979,1200,300,No,Electricity,0700,Spanish
+Sub 1,000144000,Married,04,02,04,08,Single detached,2,2,Mortgage,1960-1969,1000,140,No,Gas,0100,English
+Sub 1,000144000,Married,05,00,02,10,Single detached,2,2,Mortgage,2006,2200,200,No,Gas,1000,English
+Sub 1,000144000,Married,05,00,07,09,Single detached,4,3,Mortgage,1970-1979,830,150,No,Electricity,0530,English
+Sub 1,000144000,Married,05,02,04,12,Single detached,2,2,Mortgage,Before 1939,1700,140,No,Gas,1300,Spanish
+Sub 1,000144000,Married,05,02,06,11,Single detached,4,3,Mortgage,1970-1979,2300,400,No,Oil,1200,English
+Sub 1,000144050,Married,03,00,04,07,Single detached,4,3,Mortgage,1950-1959,2000,300,No,Oil,1200,Other European
+Sub 1,000144100,Married,03,01,03,09,Single detached,2,2,Mortgage,1950-1959,930,100,No,Gas,0680,English
+Sub 1,000144100,Married,04,00,02,07,Single detached,2,2,Mortgage,1970-1979,700,170,No,Oil,1800,English
+Sub 1,000144100,Married,04,02,04,07,Single detached,2,2,Mortgage,1950-1959,2500,120,No,Gas,1200,English
+Sub 1,000144200,Married,03,00,02,06,Single detached,2,2,Mortgage,1950-1959,2200,110,No,Gas,1300,English
+Sub 1,000144200,Married,03,00,06,06,Single detached,3,3,Mortgage,1970-1979,2500,300,Yes,Gas,2000,Asian Pacific
+Sub 1,000144200,Married,04,00,03,09,Single detached,4,3,Mortgage,2000-2004,1300,160,No,Gas,1300,English
+Sub 1,000144240,Married,04,02,08,07,Single detached,3,3,Mortgage,Before 1939,2700,270,No,Gas,2000,English
+Sub 1,000144300,Married,03,01,08,05,Single attached,2,3,Mortgage,1990-1999,1600,400,No,Gas,2000,English
+Sub 1,000144310,Married,04,00,02,08,Single detached,2,1,Mortgage,1970-1979,1200,130,No,Gas,0880,English
+Sub 1,000144360,Married,03,00,04,08,Single detached,4,3,Mortgage,1980-1989,690,040,No,Gas,0450,English
+Sub 1,000144400,Married,02,00,03,04,Single attached,3,1,Outright,1970-1979,300,060,No,Oil,0360,English
+Sub 1,000144400,Married,04,02,04,13,Single detached,3,3,Mortgage,Before 1939,1200,130,No,Wood,0700,English
+Sub 1,000144450,Married,08,00,06,12,Single detached,2,3,Mortgage,2000-2004,2200,290,Yes,Gas,1300,Other European
+Sub 1,000144500,Married,03,00,02,07,Single detached,2,1,Mortgage,1940-1949,130,230,No,Gas,0750,English
+Sub 1,000144500,Married,03,01,03,06,Single detached,3,2,Mortgage,1950-1959,1800,170,No,Gas,0800,English
+Sub 1,000144500,Married,04,00,03,10,Single detached,2,2,Mortgage,Before 1939,1800,130,No,Gas,2400,English
+Sub 1,000144500,Married,04,00,04,09,Single detached,4,3,Mortgage,1960-1969,2900,320,No,Oil,2800,English
+Sub 1,000144500,Married,04,01,04,08,Single detached,2,3,Mortgage,Before 1939,1100,200,No,Gas,0630,English
+Sub 1,000144500,Married,05,03,05,10,Single detached,2,2,Mortgage,1970-1979,1100,080,No,Gas,0800,English
+Sub 1,000144570,Married,04,02,04,08,Single detached,2,2,Mortgage,1960-1969,1300,200,No,Gas,0500,English
+Sub 1,000144600,Married,03,00,03,07,Single detached,3,2,Mortgage,1950-1959,2500,090,No,Gas,1200,English
+Sub 1,000144600,Married,03,00,03,10,Single detached,3,2,Mortgage,Before 1939,1300,250,No,Oil,1200,English
+Sub 1,000144600,Married,03,01,03,07,Single detached,2,2,Mortgage,1960-1969,2700,250,No,Oil,1000,English
+Sub 1,000144600,Married,05,02,05,08,Single detached,0,2,Mortgage,2009,1400,150,No,Gas,1000,Other European
+Sub 1,000144800,Married,02,00,03,05,Single attached,3,3,Mortgage,1990-1999,1300,100,No,Gas,0800,English
+Sub 1,000144800,Married,02,00,03,06,Single detached,2,2,Mortgage,1970-1979,530,310,No,Gas,1000,English
+Sub 1,000144800,Married,03,00,02,09,Single detached,3,2,Mortgage,1950-1959,2900,220,No,Oil,3000,Spanish
+Sub 1,000144800,Married,04,00,02,09,Single detached,2,2,Mortgage,1970-1979,800,250,No,Oil,1600,English
+Sub 1,000144800,Married,04,00,03,07,Single detached,3,2,Mortgage,1980-1989,2800,130,No,Gas,1200,English
+Sub 1,000144880,Married,04,00,02,10,Single detached,1,2,Mortgage,Before 1939,610,190,No,Oil,0750,English
+Sub 1,000144900,Married,03,00,02,06,Single detached,2,2,Mortgage,2008,1100,150,No,Gas,3000,English
+Sub 1,000144900,Married,03,00,03,06,Single attached,1,2,Mortgage,1950-1959,1800,580,No,Gas,0800,English
+Sub 1,000144900,Married,04,01,04,08,Single detached,3,2,Mortgage,1970-1979,2100,250,No,Oil,1200,English
+Sub 1,000145000,Female Head,04,00,04,06,Single detached,2,3,Mortgage,1940-1949,1300,130,No,Gas,1200,English
+Sub 1,000145000,Male Head,03,00,02,07,Single attached,2,1,Mortgage,2000-2004,2720,400,No,Gas,0400,English
+Sub 1,000145000,Male Head,04,00,02,10,Single detached,2,1,Mortgage,1950-1959,2500,330,No,Gas,3000,English
+Sub 1,000145000,Married,01,00,02,06,Single detached,2,2,Mortgage,1950-1959,1600,220,No,Gas,1500,English
+Sub 1,000145000,Married,02,01,03,05,Single attached,1,2,Mortgage,1950-1959,3500,090,No,Gas,0800,Asian Pacific
+Sub 1,000145000,Married,02,01,03,07,Single attached,2,2,Mortgage,1970-1979,2700,350,No,Electricity,0200,English
+Sub 1,000145000,Married,02,02,04,04,Single detached,2,2,Mortgage,1940-1949,1800,200,No,Gas,0,English
+Sub 1,000145000,Married,02,02,04,06,Single detached,2,2,Mortgage,1950-1959,2200,160,No,Gas,0870,English
+Sub 1,000145000,Married,03,00,02,05,Single detached,2,2,Mortgage,1990-1999,2300,150,No,Oil,2000,English
+Sub 1,000145000,Married,03,00,02,06,Single detached,2,2,Mortgage,1980-1989,2000,120,No,Oil,0700,English
+Sub 1,000145000,Married,03,00,02,06,Single detached,3,2,Mortgage,1950-1959,3800,350,No,Oil,0800,English
+Sub 1,000145000,Married,03,00,02,06,Single detached,3,2,Mortgage,1960-1969,330,300,No,Oil,1800,English
+Sub 1,000145000,Married,03,00,02,06,Single detached,4,2,Mortgage,1950-1959,1200,200,No,Oil,2200,English
+Sub 1,000145000,Married,03,00,02,07,Single attached,2,2,Mortgage,Before 1939,1600,190,No,Gas,0240,English
+Sub 1,000145000,Married,03,00,02,07,Single detached,2,2,Mortgage,1950-1959,2700,200,No,Oil,1600,English
+Sub 1,000145000,Married,03,00,02,07,Single detached,2,2,Mortgage,1970-1979,2500,150,No,Oil,1400,English
+Sub 1,000145000,Married,03,00,02,08,Single detached,2,2,Mortgage,1970-1979,1500,200,No,Gas,1000,English
+Sub 1,000145000,Married,03,00,04,04,Single attached,2,3,Mortgage,1940-1949,1300,130,No,Oil,0670,Asian Pacific
+Sub 1,000145000,Married,03,00,04,05,Single attached,2,3,Mortgage,Before 1939,1600,100,No,Gas,1000,Other European
+Sub 1,000145000,Married,03,00,04,05,Single detached,4,3,Mortgage,1980-1989,1900,200,No,Oil,0800,English
+Sub 1,000145000,Married,03,01,03,07,Single detached,2,2,Mortgage,1960-1969,2200,180,No,Gas,1000,English
+Sub 1,000145000,Married,03,01,04,11,Single detached,3,3,Mortgage,1970-1979,2200,200,No,Oil,1500,English
+Sub 1,000145000,Married,03,02,04,06,Single detached,1,2,Mortgage,1990-1999,1700,080,No,Oil,1200,English
+Sub 1,000145000,Married,03,02,04,06,Single detached,2,2,Mortgage,1960-1969,2400,140,No,Oil,1800,English
+Sub 1,000145000,Married,03,02,04,06,Single detached,2,2,Mortgage,1960-1969,3300,200,No,Oil,2200,English
+Sub 1,000145000,Married,03,02,04,07,Single detached,2,2,Mortgage,Before 1939,2100,090,No,Gas,1100,Spanish
+Sub 1,000145000,Married,03,02,04,07,Single detached,2,2,Mortgage,2000-2004,1600,250,No,Gas,0600,Spanish
+Sub 1,000145000,Married,03,02,04,09,Single detached,2,2,Mortgage,1960-1969,2100,200,No,Oil,1200,English
+Sub 1,000145000,Married,03,04,06,08,Single detached,2,2,Mortgage,1960-1969,2500,580,No,Gas,1000,English
+Sub 1,000145000,Married,04,00,02,06,Single detached,3,2,Mortgage,1970-1979,1200,200,No,Gas,0550,English
+Sub 1,000145000,Married,04,00,02,09,Single detached,2,2,Mortgage,Before 1939,830,170,No,Oil,0850,English
+Sub 1,000145000,Married,04,00,03,06,Single detached,2,2,Mortgage,1970-1979,3500,450,No,Gas,1000,Asian Pacific
+Sub 1,000145000,Married,04,00,04,08,Single detached,1,3,Mortgage,1950-1959,3000,200,No,Gas,1100,Spanish
+Sub 1,000145000,Married,04,01,03,08,Single detached,2,2,Mortgage,1950-1959,1800,180,No,Gas,1000,English
+Sub 1,000145000,Married,04,01,03,08,Single detached,3,2,Mortgage,2005,2500,150,No,Gas,0800,English
+Sub 1,000145000,Married,04,01,03,09,Single detached,2,2,Mortgage,1960-1969,1100,060,No,Gas,0500,English
+Sub 1,000145000,Married,04,01,04,08,Single detached,4,3,Mortgage,1950-1959,2500,250,No,Oil,1000,Other European
+Sub 1,000145000,Married,04,02,04,07,Single detached,2,2,Mortgage,1970-1979,1200,170,No,Gas,0880,English
+Sub 1,000145000,Married,04,02,04,08,Single detached,2,2,Mortgage,1950-1959,3000,200,No,Gas,2500,Asian Pacific
+Sub 1,000145000,Married,04,03,05,06,Single detached,3,2,Mortgage,1950-1959,1700,160,No,Oil,0830,English
+Sub 1,000145000,Married,04,06,08,08,Single detached,2,2,Mortgage,1950-1959,2700,400,No,Gas,2500,English
+Sub 1,000145000,Married,05,00,02,09,Single detached,2,1,Mortgage,1960-1969,700,230,No,Gas,1200,English
+Sub 1,000145000,Married,05,00,02,09,Single detached,2,2,Mortgage,1970-1979,1000,160,No,Gas,0700,English
+Sub 1,000145030,Married,04,01,03,07,Single detached,3,2,Mortgage,1960-1969,950,080,No,Oil,1800,English
+Sub 1,000145040,Married,03,00,02,07,Single detached,2,2,Mortgage,Before 1939,490,110,No,Gas,0280,English
+Sub 1,000145040,Married,03,02,04,06,Single detached,2,1,Mortgage,1950-1959,2400,500,No,Oil,1200,English
+Sub 1,000145100,Married,03,00,03,06,Single detached,3,2,Mortgage,1970-1979,1700,150,No,Oil,2000,English
+Sub 1,000145100,Married,04,02,04,09,Single detached,2,2,Mortgage,1950-1959,3000,250,No,Gas,1500,English
+Sub 1,000145200,Married,03,00,02,07,Single detached,1,1,Rented,Before 1939,480,040,No,Gas,0,English
+Sub 1,000145200,Married,03,00,02,07,Single detached,3,2,Mortgage,1990-1999,2500,180,No,Oil,0650,English
+Sub 1,000145220,Married,05,00,02,10,Single detached,1,1,Mortgage,1980-1989,1000,350,No,Oil,1700,English
+Sub 1,000145250,Married,04,02,04,09,Single detached,2,2,Mortgage,2000-2004,2000,210,No,Gas,0880,English
+Sub 1,000145300,Married,03,00,02,12,Single detached,2,2,Mortgage,1990-1999,490,100,No,Gas,0170,English
+Sub 1,000145300,Married,04,00,04,07,Single detached,3,3,Mortgage,1950-1959,2200,160,No,Oil,1400,English
+Sub 1,000145300,Married,04,02,07,09,Single detached,4,3,Mortgage,1960-1969,1000,580,No,Electricity,1500,English
+Sub 1,000145320,Married,03,00,03,06,Single detached,3,2,Mortgage,1940-1949,550,150,No,Gas,0380,English
+Sub 1,000145340,Married,03,00,03,08,Single detached,3,3,Mortgage,1970-1979,530,150,No,Gas,0890,English
+Sub 1,000145400,Married,04,00,02,08,Single detached,2,1,Mortgage,1970-1979,770,400,No,Gas,0670,English
+Sub 1,000145430,Married,03,01,03,08,Single detached,2,2,Mortgage,1950-1959,1200,250,No,Oil,1200,English
+Sub 1,000145500,Married,03,00,03,06,Single attached,1,3,Mortgage,1980-1989,1800,220,No,Gas,0700,English
+Sub 1,000145500,Married,04,02,04,08,Single detached,3,2,Mortgage,1980-1989,2400,220,No,Oil,1000,Other European
+Sub 1,000145600,Married,02,01,03,05,Single detached,1,3,Rented,Before 1939,2300,180,No,Oil,0,Other European
+Sub 1,000145600,Married,03,02,04,05,Single detached,2,2,Mortgage,1950-1959,4000,340,No,Oil,2200,English
+Sub 1,000145600,Married,05,00,04,12,Single detached,3,3,Mortgage,1950-1959,970,150,No,Oil,4100,English
+Sub 1,000145640,Married,03,00,04,09,Single detached,2,3,Mortgage,Before 1939,2900,160,No,Gas,1500,English
+Sub 1,000145680,Married,04,02,04,07,Single detached,2,2,Mortgage,Before 1939,3200,250,No,Gas,1800,Other European
+Sub 1,000145700,Female Head,03,00,04,05,Single detached,2,1,Mortgage,1950-1959,2500,130,No,Gas,0800,Spanish
+Sub 1,000145700,Married,04,00,02,08,Single detached,2,0,Mortgage,Before 1939,300,150,No,Gas,1100,English
+Sub 1,000145700,Married,05,01,06,09,Single detached,5,3,Mortgage,Before 1939,590,110,No,Gas,0460,English
+Sub 1,000145800,Female Head,03,00,06,04,Single detached,0,2,Rented,1950-1959,1800,130,Yes,Electricity,0,Other European
+Sub 1,000145800,Married,03,00,02,09,Single detached,2,0,Mortgage,Before 1939,1600,190,No,Gas,1500,English
+Sub 1,000145820,Married,03,01,04,05,Single detached,3,3,Mortgage,Before 1939,1000,130,No,Oil,0700,Asian Pacific
+Sub 1,000145820,Married,04,00,03,09,Single detached,3,3,Mortgage,Before 1939,1200,140,No,Gas,2000,English
+Sub 1,000145900,Married,03,00,03,06,Single detached,3,2,Mortgage,Before 1939,1200,180,No,Electricity,1200,English
+Sub 1,000145900,Married,03,01,04,08,Single detached,2,3,Mortgage,1960-1969,1000,160,No,Gas,1600,English
+Sub 1,000146000,Female Head,03,00,02,06,Single detached,3,1,Mortgage,1960-1969,2900,130,No,Oil,2200,English
+Sub 1,000146000,Male Head,03,00,02,06,Single attached,2,2,Mortgage,1980-1989,1310,100,No,Gas,0300,English
+Sub 1,000146000,Married,02,00,04,03,Single detached,3,3,Mortgage,1980-1989,1250,150,Yes,Electricity,1200,Asian Pacific
+Sub 1,000146000,Married,03,00,02,06,Single attached,2,1,Mortgage,1970-1979,1200,300,No,Gas,0900,English
+Sub 1,000146000,Married,03,00,02,08,Single detached,3,2,Mortgage,1950-1959,1300,220,No,Oil,1000,English
+Sub 1,000146000,Married,03,00,02,11,Single detached,2,2,Mortgage,1960-1969,300,300,No,Oil,1000,English
+Sub 1,000146000,Married,03,01,04,07,Single detached,2,2,Mortgage,1970-1979,1200,190,No,Gas,1800,English
+Sub 1,000146000,Married,03,01,06,06,Single detached,4,3,Mortgage,1940-1949,2000,320,No,Oil,1100,English
+Sub 1,000146000,Married,03,02,04,07,Single detached,1,2,Mortgage,1950-1959,1200,110,No,Gas,0,Asian Pacific
+Sub 1,000146000,Married,03,02,04,09,Single detached,1,2,Mortgage,1960-1969,3000,140,No,Oil,1500,English
+Sub 1,000146000,Married,04,00,02,05,Single attached,2,2,Mortgage,1940-1949,3000,360,No,Gas,0710,Spanish
+Sub 1,000146000,Married,04,00,03,07,Single detached,2,3,Mortgage,1950-1959,1900,170,No,Oil,2500,English
+Sub 1,000146000,Married,04,00,03,07,Single detached,5,3,Mortgage,1970-1979,1300,250,No,Oil,1000,English
+Sub 1,000146000,Married,04,00,04,09,Single detached,4,3,Mortgage,1960-1969,1100,130,No,Gas,1300,Other European
+Sub 1,000146000,Married,04,01,03,09,Single detached,3,2,Mortgage,1940-1949,950,150,No,Gas,0800,English
+Sub 1,000146000,Married,04,02,04,09,Single detached,2,2,Mortgage,1950-1959,1700,270,No,Gas,0600,English
+Sub 1,000146000,Married,04,02,07,06,Single attached,2,2,Mortgage,1970-1979,2330,150,Yes,Gas,0,Other European
+Sub 1,000146000,Married,05,01,06,09,Single detached,4,3,Mortgage,2005,2800,580,No,Oil,2800,Spanish
+Sub 1,000146000,Married,08,01,04,21,Single detached,3,2,Mortgage,2000-2004,3000,510,No,Gas,6600,Other European
+Sub 1,000146000,Married,08,02,09,10,Single detached,5,3,Mortgage,1950-1959,1300,400,No,Oil,0700,Other European
+Sub 1,000146100,Married,03,03,05,06,Single detached,2,2,Mortgage,2000-2004,1700,140,No,Gas,1000,English
+Sub 1,000146120,Male Head,05,01,03,08,Single detached,4,3,Mortgage,1950-1959,1800,210,No,Oil,2100,English
+Sub 1,000146130,Married,02,01,03,05,Single detached,2,2,Mortgage,1950-1959,3100,210,No,Electricity,2200,English
+Sub 1,000146200,Married,04,01,03,09,Single detached,2,2,Mortgage,2006,1400,090,No,Gas,0910,English
+Sub 1,000146300,Married,03,01,05,07,Single attached,3,3,Mortgage,1950-1959,2000,150,No,Gas,1600,English
+Sub 1,000146300,Married,04,02,04,07,Single detached,2,1,Mortgage,2000-2004,1800,380,No,Gas,1900,English
+Sub 1,000146400,Married,03,00,03,08,Single detached,1,2,Mortgage,Before 1939,3000,120,No,Gas,1300,Spanish
+Sub 1,000146400,Married,03,02,04,09,Single detached,2,2,Mortgage,1980-1989,800,050,No,Gas,0670,English
+Sub 1,000146404,Married,04,02,04,08,Single detached,2,2,Mortgage,1960-1969,1500,100,No,Gas,0660,English
+Sub 1,000146450,Female Head,03,00,02,06,Single detached,1,2,Mortgage,1950-1959,2500,100,No,Gas,2600,English
+Sub 1,000146500,Married,04,00,02,06,Single detached,2,0,Mortgage,1950-1959,900,290,Yes,Oil,2200,English
+Sub 1,000146600,Female Head,03,00,03,06,Single detached,2,2,Mortgage,1950-1959,2600,100,Yes,Gas,1400,English
+Sub 1,000146600,Female Head,04,00,05,08,Single detached,3,3,Mortgage,1940-1949,1800,200,No,Oil,0750,Other European
+Sub 1,000146600,Married,03,00,03,07,Single detached,2,3,Mortgage,1950-1959,3000,110,No,Oil,0800,English
+Sub 1,000146600,Married,05,02,06,10,Single detached,3,2,Mortgage,1960-1969,2200,190,No,Gas,2800,Other European
+Sub 1,000146630,Married,03,01,05,07,Single detached,4,3,Mortgage,Before 1939,600,090,No,Gas,1000,English
+Sub 1,000146700,Married,03,01,03,05,Single detached,3,2,Mortgage,1960-1969,730,150,No,Gas,0760,English
+Sub 1,000146800,Married,03,00,03,07,Single attached,2,3,Mortgage,Before 1939,1400,100,No,Oil,0950,Spanish
+Sub 1,000147000,Female Head,03,00,05,04,Single detached,0,3,Mortgage,1940-1949,1500,260,No,Gas,1700,Asian Pacific
+Sub 1,000147000,Male Head,03,00,02,07,Single detached,2,1,Mortgage,1950-1959,1700,130,No,Oil,1400,English
+Sub 1,000147000,Married,00,00,04,03,Single detached,1,3,Mortgage,1950-1959,4000,150,No,Gas,1300,Spanish
+Sub 1,000147000,Married,02,00,02,05,Single detached,2,2,Mortgage,Before 1939,1700,100,No,Gas,0750,English
+Sub 1,000147000,Married,03,00,02,04,Single detached,2,2,Mortgage,1940-1949,1400,240,No,Gas,1400,Other
+Sub 1,000147000,Married,03,00,02,07,Single detached,3,1,Mortgage,1980-1989,1500,150,No,Oil,1700,English
+Sub 1,000147000,Married,03,00,03,05,Single detached,3,3,Mortgage,1950-1959,680,150,No,Oil,0,English
+Sub 1,000147000,Married,03,00,03,07,Single detached,4,3,Mortgage,1980-1989,350,200,Yes,Oil,0380,English
+Sub 1,000147000,Married,03,00,04,04,Single detached,3,3,Mortgage,Before 1939,500,200,No,Oil,1200,English
+Sub 1,000147000,Married,03,01,03,09,Single attached,0,2,Mortgage,Before 1939,3700,350,No,Gas,3000,Other European
+Sub 1,000147000,Married,03,01,04,08,Single detached,2,3,Mortgage,1990-1999,3620,170,No,Oil,0900,Spanish
+Sub 1,000147000,Married,03,02,04,05,Single detached,2,2,Mortgage,1970-1979,550,110,No,Other,0500,English
+Sub 1,000147000,Married,03,02,04,07,Single detached,2,2,Mortgage,1970-1979,2800,170,No,Gas,1300,English
+Sub 1,000147000,Married,03,03,05,06,Single detached,2,2,Rented,1960-1969,1500,300,No,Gas,0,Other European
+Sub 1,000147000,Married,03,03,05,06,Single detached,3,2,Mortgage,Before 1939,3000,130,No,Gas,1200,English
+Sub 1,000147000,Married,04,00,02,10,Single detached,2,2,Mortgage,1960-1969,2800,360,No,Gas,2000,English
+Sub 1,000147000,Married,04,00,02,10,Single detached,3,2,Mortgage,1970-1979,1900,100,No,Gas,0800,English
+Sub 1,000147000,Married,04,01,04,09,Single detached,3,3,Mortgage,1950-1959,2100,580,No,Gas,1100,English
+Sub 1,000147000,Married,04,02,04,10,Single detached,1,2,Mortgage,1950-1959,2300,110,No,Oil,2000,English
+Sub 1,000147000,Married,05,02,04,10,Single detached,2,2,Mortgage,1950-1959,2700,280,No,Oil,1100,English
+Sub 1,000147000,Married,08,00,04,09,Single detached,2,3,Mortgage,1970-1979,1200,380,No,Oil,1500,Other European
+Sub 1,000147100,Married,03,00,05,10,Single detached,3,2,Mortgage,1950-1959,3400,240,No,Oil,0900,English
+Sub 1,000147300,Female Head,03,00,02,08,Single detached,2,2,Mortgage,1950-1959,1800,140,No,Oil,1200,English
+Sub 1,000147300,Married,03,00,03,12,Single detached,2,3,Mortgage,Before 1939,1400,210,No,Gas,0100,Spanish
+Sub 1,000147330,Married,04,03,05,07,Single detached,2,2,Mortgage,1990-1999,1100,160,No,Gas,0900,English
+Sub 1,000147360,Married,03,03,05,06,Single detached,2,2,Mortgage,Before 1939,2500,170,No,Oil,2200,English
+Sub 1,000147400,Married,03,00,02,08,Single detached,2,2,Mortgage,1940-1949,3700,250,No,Gas,1000,English
+Sub 1,000147400,Married,03,00,03,05,Single detached,2,2,Mortgage,1950-1959,2400,090,No,Gas,1300,Other European
+Sub 1,000147400,Married,03,00,04,10,Single detached,3,2,Mortgage,Before 1939,2600,300,No,Gas,1200,English
+Sub 1,000147470,Married,03,00,02,08,Single detached,2,2,Mortgage,1950-1959,2500,160,No,Oil,1300,English
+Sub 1,000147500,Married,04,00,04,07,Single detached,4,3,Mortgage,1960-1969,1200,080,No,Electricity,0500,English
+Sub 1,000147500,Married,04,01,03,11,Single detached,2,2,Mortgage,1960-1969,1800,050,No,Gas,0500,English
+Sub 1,000147500,Married,04,03,05,09,Single detached,2,2,Mortgage,1950-1959,1400,210,No,Oil,1200,Spanish
+Sub 1,000147520,Married,04,00,02,05,Single detached,1,1,Mortgage,1940-1949,1600,070,No,Oil,1500,English
+Sub 1,000147700,Married,04,00,03,08,Single detached,2,3,Mortgage,1950-1959,590,110,No,Gas,0540,English
+Sub 1,000147800,Married,03,00,02,05,Single detached,2,2,Mortgage,1960-1969,1500,210,No,Gas,0500,Spanish
+Sub 1,000147800,Married,04,00,02,09,Single detached,2,2,Mortgage,1990-1999,2000,250,No,Gas,1000,English
+Sub 1,000147900,Married,05,00,05,08,Single detached,4,3,Mortgage,1970-1979,2400,300,No,Oil,1600,English
+Sub 1,000148000,Female Head,03,01,03,05,Single detached,1,2,Mortgage,1980-1989,2900,260,No,Electricity,1100,English
+Sub 1,000148000,Married,02,00,02,04,Single detached,2,2,Mortgage,1980-1989,770,130,No,Electricity,0700,English
+Sub 1,000148000,Married,03,00,02,06,Single detached,2,2,Mortgage,Before 1939,3000,200,No,Gas,1800,English
+Sub 1,000148000,Married,03,00,02,08,Single detached,2,2,Mortgage,Before 1939,300,170,No,Gas,1200,English
+Sub 1,000148000,Married,03,00,02,09,Single detached,3,2,Mortgage,Before 1939,500,150,No,Gas,0500,English
+Sub 1,000148000,Married,03,00,03,06,Single detached,3,2,Mortgage,1940-1949,500,100,No,Gas,0500,English
+Sub 1,000148000,Married,03,00,05,07,Single detached,2,3,Mortgage,1960-1969,3200,200,No,Oil,1600,Asian Pacific
+Sub 1,000148000,Married,03,01,03,06,Single detached,2,2,Mortgage,1960-1969,2100,470,No,Gas,0720,Spanish
+Sub 1,000148000,Married,03,01,04,05,Single attached,3,3,Mortgage,1960-1969,3400,400,No,Gas,1600,English
+Sub 1,000148000,Married,03,01,04,06,Single attached,2,3,Mortgage,1940-1949,2800,120,No,None,2000,Other European
+Sub 1,000148000,Married,03,02,04,06,Single detached,2,2,Mortgage,1950-1959,1500,280,No,Oil,0600,English
+Sub 1,000148000,Married,03,02,04,07,Single detached,2,2,Mortgage,1950-1959,2400,100,No,Oil,0400,English
+Sub 1,000148000,Married,03,02,04,07,Single detached,2,2,Mortgage,1960-1969,1100,210,No,Gas,0650,English
+Sub 1,000148000,Married,03,02,04,09,Single detached,2,2,Mortgage,1950-1959,2900,580,No,Gas,1200,English
+Sub 1,000148000,Married,04,00,02,11,Single detached,2,2,Mortgage,1980-1989,3000,120,No,Gas,1200,English
+Sub 1,000148000,Married,04,00,04,08,Single detached,4,3,Mortgage,1950-1959,3100,240,No,Oil,1500,English
+Sub 1,000148000,Married,04,00,05,06,Single detached,2,3,Mortgage,1970-1979,2700,150,No,Gas,1200,Asian Pacific
+Sub 1,000148000,Married,04,01,03,06,Single detached,2,2,Mortgage,1950-1959,2500,250,No,Oil,1000,Spanish
+Sub 1,000148000,Married,04,01,03,08,Single detached,2,2,Mortgage,1940-1949,3400,340,No,Gas,2800,English
+Sub 1,000148100,Male Head,04,00,02,08,Single detached,3,1,Mortgage,Before 1939,600,260,No,Oil,1200,English
+Sub 1,000148100,Married,03,00,02,05,Single detached,2,2,Mortgage,1960-1969,300,070,No,Gas,0690,English
+Sub 1,000148100,Married,03,00,05,07,Single detached,4,3,Mortgage,1960-1969,1500,250,Yes,Oil,1100,English
+Sub 1,000148100,Married,04,01,04,08,Single detached,3,3,Mortgage,1980-1989,1000,120,No,Gas,0900,English
+Sub 1,000148200,Married,02,01,03,08,Single attached,1,2,Mortgage,Before 1939,2600,320,No,Gas,1200,Other European
+Sub 1,000148200,Married,03,01,03,07,Single detached,2,2,Mortgage,1980-1989,1100,130,No,Gas,1000,Other European
+Sub 1,000148200,Married,04,00,03,07,Single detached,4,3,Mortgage,1950-1959,110,100,No,Gas,0330,English
+Sub 1,000148200,Married,04,00,03,09,Single detached,3,3,Mortgage,1990-1999,810,130,No,Gas,0950,English
+Sub 1,000148200,Married,05,01,04,09,Single detached,3,3,Mortgage,1990-1999,1500,280,No,Gas,0650,English
+Sub 1,000148300,Married,03,02,04,08,Single detached,3,2,Mortgage,1940-1949,1100,200,No,Gas,0600,English
+Sub 1,000148300,Married,04,00,04,07,Single detached,5,3,Mortgage,1950-1959,200,140,No,Gas,0650,English
+Sub 1,000148300,Married,05,06,08,08,Single detached,2,2,Mortgage,1950-1959,2700,330,No,Gas,2800,Other
+Sub 1,000148400,Female Head,05,00,03,09,Single detached,3,1,Mortgage,1950-1959,2100,390,No,Gas,0830,English
+Sub 1,000148400,Married,04,00,04,08,Single detached,2,1,Mortgage,Before 1939,2600,380,No,Gas,0,Asian Pacific
+Sub 1,000148490,Married,03,00,02,05,Single detached,2,2,Mortgage,1940-1949,1500,150,No,Oil,1200,English
+Sub 1,000148500,Married,02,00,02,04,Single detached,1,2,Mortgage,1940-1949,2400,120,No,Gas,1200,English
+Sub 1,000148500,Married,03,00,03,07,Single detached,2,3,Mortgage,Before 1939,3600,210,No,Gas,1800,English
+Sub 1,000148500,Married,03,03,05,05,Single detached,2,1,Mortgage,1950-1959,2700,210,No,Oil,1200,Asian Pacific
+Sub 1,000148540,Married,03,00,03,07,Single detached,4,3,Mortgage,Before 1939,2000,010,No,Gas,0800,English
+Sub 1,000148600,Female Head,03,01,03,07,Single attached,2,1,Mortgage,1990-1999,2620,130,No,Gas,0600,English
+Sub 1,000148600,Married,02,00,02,08,Single attached,2,1,Outright,2005,320,140,No,Gas,1400,English
+Sub 1,000148600,Married,04,01,06,07,Single detached,5,2,Mortgage,1960-1969,3300,400,No,Other,6600,English
+Sub 1,000148700,Married,03,00,03,08,Single detached,1,3,Mortgage,1970-1979,2700,200,No,Oil,0650,English
+Sub 1,000148730,Married,03,01,03,06,Single detached,2,2,Mortgage,1950-1959,3100,200,No,Oil,0800,English
+Sub 1,000148800,Married,04,00,04,08,Single detached,2,3,Mortgage,Before 1939,2800,190,No,Gas,6600,English
+Sub 1,000148800,Married,04,03,05,08,Single detached,2,2,Mortgage,2007,1500,300,No,Electricity,0800,English
+Sub 1,000148840,Married,03,00,06,10,Single detached,4,3,Mortgage,1960-1969,2000,270,No,Oil,1200,Other European
+Sub 1,000148900,Married,04,00,02,08,Single detached,2,1,Mortgage,1960-1969,560,170,No,Gas,4000,Other European
+Sub 1,000149000,Married,02,01,03,07,Single attached,1,2,Mortgage,1950-1959,2200,060,No,Gas,0900,English
+Sub 1,000149000,Married,03,00,02,07,Single detached,1,2,Mortgage,1940-1949,920,160,No,Gas,2000,Spanish
+Sub 1,000149000,Married,03,00,03,06,Single detached,4,3,Mortgage,1940-1949,580,130,No,Oil,0500,English
+Sub 1,000149000,Married,03,00,03,08,Single detached,3,3,Mortgage,1950-1959,2000,130,No,Gas,1200,English
+Sub 1,000149000,Married,03,00,03,09,Single detached,0,3,Mortgage,1950-1959,1300,090,No,Oil,1600,English
+Sub 1,000149000,Married,03,00,04,06,Single detached,5,3,Mortgage,1940-1949,1800,180,No,Oil,3000,English
+Sub 1,000149000,Married,03,00,04,07,Single detached,3,3,Mortgage,1960-1969,740,050,No,Wood,0400,English
+Sub 1,000149000,Married,03,01,03,05,Single detached,1,2,Mortgage,1940-1949,2700,140,No,Gas,0600,Spanish
+Sub 1,000149000,Married,03,01,03,07,Single detached,2,2,Mortgage,Before 1939,2600,180,No,Oil,0900,English
+Sub 1,000149000,Married,03,01,03,08,Single detached,2,2,Mortgage,Before 1939,3100,050,No,Oil,1100,English
+Sub 1,000149000,Married,03,02,04,06,Single detached,4,3,Mortgage,Before 1939,2700,130,No,Gas,2300,Spanish
+Sub 1,000149000,Married,04,00,02,09,Single detached,3,2,Mortgage,1960-1969,2300,170,No,Gas,1200,Spanish
+Sub 1,000149000,Married,04,01,04,08,Single detached,2,3,Mortgage,1950-1959,2000,250,No,Oil,1200,English
+Sub 1,000149000,Married,04,02,04,07,Single detached,2,2,Mortgage,1940-1949,840,290,No,Gas,0500,English
+Sub 1,000149000,Married,04,02,04,10,Single detached,2,2,Mortgage,1950-1959,3100,260,No,Oil,1400,Other European
+Sub 1,000149000,Married,04,02,06,06,Single detached,3,3,Mortgage,1960-1969,3200,200,No,Oil,0900,English
+Sub 1,000149000,Married,04,03,05,07,Single detached,2,2,Mortgage,1950-1959,2400,300,No,Gas,2000,English
+Sub 1,000149000,Married,05,00,03,08,Single detached,2,3,Mortgage,1940-1949,3100,280,No,Gas,0950,English
+Sub 1,000149000,Married,05,00,04,08,Single detached,4,3,Mortgage,1960-1969,2500,500,No,Oil,2000,Other European
+Sub 1,000149100,Married,03,00,03,07,Single detached,3,3,Mortgage,1960-1969,2800,140,No,Gas,1000,English
+Sub 1,000149150,Married,02,00,02,05,Single attached,2,0,Mortgage,1990-1999,830,060,No,Gas,0190,English
+Sub 1,000149200,Married,02,00,02,06,Single detached,3,0,Mortgage,1950-1959,3000,002,No,Gas,2400,English
+Sub 1,000149200,Married,02,00,03,04,Single detached,3,3,Rented,1950-1959,1600,240,No,Oil,0,English
+Sub 1,000149220,Married,04,01,03,10,Single detached,2,1,Mortgage,1940-1949,4000,270,No,Gas,2100,English
+Sub 1,000149300,Married,03,02,04,06,Single detached,2,2,Mortgage,1950-1959,3000,150,No,Gas,1200,Other European
+Sub 1,000149400,Married,04,04,08,09,Single attached,3,3,Rented,1950-1959,1900,200,No,Gas,0,Asian Pacific
+Sub 1,000149500,Married,03,00,04,05,Single detached,3,3,Mortgage,1960-1969,6500,180,No,Gas,1200,English
+Sub 1,000149500,Married,04,00,02,09,Single detached,2,1,Mortgage,Before 1939,950,040,No,Oil,1200,Other European
+Sub 1,000149500,Married,04,01,04,08,Single detached,2,3,Mortgage,1980-1989,2500,100,No,Gas,0,English
+Sub 1,000149600,Female Head,03,02,07,04,Single attached,2,3,Mortgage,Before 1939,1900,200,No,Oil,1200,Other European
+Sub 1,000149600,Married,03,00,03,08,Single detached,3,3,Mortgage,1940-1949,560,040,No,Gas,0700,English
+Sub 1,000149620,Married,03,01,03,06,Single detached,3,3,Mortgage,1990-1999,1600,050,No,Gas,0800,English
+Sub 1,000149700,Male Head,03,01,04,05,Single detached,2,3,Mortgage,1940-1949,2600,180,No,Gas,1200,Other European
+Sub 1,000149700,Married,03,02,04,06,Single detached,2,2,Mortgage,1950-1959,1500,130,No,Gas,1200,Asian Pacific
+Sub 1,000149750,Married,03,01,03,09,Single detached,2,3,Mortgage,1970-1979,2300,420,No,Gas,0700,English
+Sub 1,000149770,Married,03,00,02,05,Single detached,2,2,Mortgage,2000-2004,2800,080,No,Gas,0670,Spanish
+Sub 1,000149850,Married,04,00,02,09,Single detached,2,0,Mortgage,1980-1989,700,140,No,Gas,0720,English
+Sub 1,000149900,Male Head,03,00,02,05,Single detached,1,1,Rented,Before 1939,1300,140,Yes,Oil,0,English
+Sub 1,000149900,Married,03,00,02,07,Single detached,2,1,Mortgage,1990-1999,1900,100,No,Gas,1200,Other European
+Sub 1,000150000,Female Head,03,00,03,06,Single detached,2,2,Mortgage,1950-1959,1200,300,Yes,Gas,1200,Other European
+Sub 1,000150000,Female Head,04,00,03,07,Single detached,0,1,Mortgage,1970-1979,900,160,No,Oil,2100,English
+Sub 1,000150000,Female Head,05,02,03,09,Single detached,1,1,Mortgage,1990-1999,1200,100,No,Gas,1000,English
+Sub 1,000150000,Male Head,02,00,02,04,Single attached,2,1,Mortgage,1990-1999,3030,290,No,Gas,0350,English
+Sub 1,000150000,Male Head,03,01,03,06,Single attached,1,1,Rented,Before 1939,3700,100,No,Gas,0,English
+Sub 1,000150000,Male Head,03,02,03,06,Single detached,3,1,Mortgage,1940-1949,2400,280,No,Gas,1600,English
+Sub 1,000150000,Male Head,03,02,03,08,Single attached,1,1,Mortgage,1980-1989,3000,300,No,Electricity,0500,English
+Sub 1,000150000,Male Head,04,03,04,08,Single detached,1,1,Mortgage,1960-1969,1200,060,No,Gas,0680,English
+Sub 1,000150000,Married,02,00,02,04,Single detached,1,2,Mortgage,1950-1959,2600,260,No,Oil,1800,English
+Sub 1,000150000,Married,02,00,02,04,Single detached,2,1,Mortgage,1960-1969,2200,060,No,Gas,1000,Spanish
+Sub 1,000150000,Married,02,00,02,05,Single attached,1,1,Rented,Before 1939,2900,100,No,Oil,0,Other European
+Sub 1,000150000,Married,02,00,02,05,Single detached,2,1,Mortgage,Before 1939,1400,400,No,Gas,0700,English
+Sub 1,000150000,Married,02,00,02,05,Single detached,2,2,Rented,2005,1500,120,No,Oil,0,English
+Sub 1,000150000,Married,02,00,02,05,Single detached,3,2,Mortgage,1950-1959,730,190,No,Oil,0600,English
+Sub 1,000150000,Married,02,00,02,05,Single detached,3,2,Mortgage,2007,1400,100,No,Gas,0500,English
+Sub 1,000150000,Married,02,00,02,06,Single detached,2,2,Mortgage,1950-1959,780,090,No,Gas,0680,English
+Sub 1,000150000,Married,02,00,02,07,Single detached,4,1,Mortgage,Before 1939,4000,400,No,Gas,0680,English
+Sub 1,000150000,Married,02,01,03,05,Single attached,0,1,Mortgage,Before 1939,1500,070,No,Gas,0860,Asian Pacific
+Sub 1,000150000,Married,03,00,02,05,Single attached,4,2,Mortgage,1970-1979,1500,100,No,Gas,1200,English
+Sub 1,000150000,Married,03,00,02,05,Single detached,1,2,Mortgage,Before 1939,2500,250,No,Oil,0800,Spanish
+Sub 1,000150000,Married,03,00,02,05,Single detached,2,1,Mortgage,1980-1989,1800,190,No,Oil,1100,English
+Sub 1,000150000,Married,03,00,02,05,Single detached,2,2,Mortgage,1950-1959,2600,370,No,Oil,1300,English
+Sub 1,000150000,Married,03,00,02,06,Single detached,1,1,Mortgage,1950-1959,1800,050,No,Oil,1100,English
+Sub 1,000150000,Married,03,00,02,06,Single detached,2,1,Mortgage,1950-1959,2300,130,No,Gas,1200,English
+Sub 1,000150000,Married,03,00,02,06,Single detached,2,2,Mortgage,Before 1939,1300,090,No,Oil,0600,English
+Sub 1,000150000,Married,03,00,02,08,Single detached,2,0,Mortgage,Before 1939,2300,200,No,Gas,1900,English
+Sub 1,000150000,Married,03,00,02,08,Single detached,2,2,Mortgage,Before 1939,930,050,No,Gas,1200,English
+Sub 1,000150000,Married,03,00,02,11,Single detached,4,1,Mortgage,1980-1989,1400,370,No,Oil,3600,English
+Sub 1,000150000,Married,03,00,03,09,Single detached,3,3,Mortgage,1980-1989,1300,300,No,Gas,0600,English
+Sub 1,000150000,Married,03,00,04,06,Single detached,1,3,Mortgage,1970-1979,1400,130,No,Gas,0980,English
+Sub 1,000150000,Married,03,00,04,07,Single detached,4,3,Mortgage,1970-1979,1800,200,No,Oil,2500,English
+Sub 1,000150000,Married,03,00,04,10,Single detached,2,3,Mortgage,Before 1939,2200,080,No,Gas,0250,English
+Sub 1,000150000,Married,03,01,03,05,Single detached,2,2,Mortgage,Before 1939,1300,090,No,Oil,1200,English
+Sub 1,000150000,Married,03,01,03,06,Single detached,2,2,Mortgage,Before 1939,1200,080,No,Gas,0,Spanish
+Sub 1,000150000,Married,03,01,03,06,Single detached,2,2,Mortgage,1970-1979,2400,200,No,Oil,2000,Other European
+Sub 1,000150000,Married,03,01,03,07,Single detached,2,2,Mortgage,1950-1959,2500,300,No,Oil,1700,English
+Sub 1,000150000,Married,03,01,03,07,Single detached,2,2,Mortgage,1950-1959,2800,080,No,Gas,0950,Asian Pacific
+Sub 1,000150000,Married,03,01,03,07,Single detached,2,2,Mortgage,1970-1979,160,250,No,Oil,0750,English
+Sub 1,000150000,Married,03,01,03,10,Single detached,3,2,Mortgage,1980-1989,270,120,No,Oil,0270,English
+Sub 1,000150000,Married,03,02,04,04,Single detached,2,2,Mortgage,Before 1939,2200,150,No,Gas,0900,Other European
+Sub 1,000150000,Married,03,02,04,05,Single attached,2,2,Mortgage,1960-1969,1900,350,No,Oil,0800,English
+Sub 1,000150000,Married,03,02,04,05,Single detached,1,2,Mortgage,Before 1939,1100,100,No,Gas,0800,Other European
+Sub 1,000150000,Married,03,02,04,05,Single detached,2,2,Mortgage,1950-1959,1600,400,No,Oil,2000,English
+Sub 1,000150000,Married,03,02,04,05,Single detached,2,2,Mortgage,1960-1969,1900,130,No,Oil,1400,Other European
+Sub 1,000150000,Married,03,02,04,06,Single detached,2,2,Mortgage,1980-1989,1500,120,No,Gas,0900,English
+Sub 1,000150000,Married,03,02,04,07,Single detached,2,1,Mortgage,1950-1959,3200,080,No,Gas,1100,English
+Sub 1,000150000,Married,03,02,04,07,Single detached,2,1,Mortgage,Before 1939,480,350,No,Gas,0400,English
+Sub 1,000150000,Married,03,02,04,07,Single detached,2,2,Mortgage,1960-1969,3200,100,No,Gas,3000,English
+Sub 1,000150000,Married,03,02,04,07,Single detached,2,2,Mortgage,1960-1969,1600,250,No,Oil,1500,English
+Sub 1,000150000,Married,03,02,04,08,Single attached,2,1,Mortgage,1990-1999,3000,350,No,Gas,1400,Other European
+Sub 1,000150000,Married,03,02,04,08,Single detached,3,1,Mortgage,1960-1969,2700,120,No,Oil,1100,English
+Sub 1,000150000,Married,03,02,04,09,Single detached,2,1,Mortgage,1960-1969,1300,300,No,Gas,0600,English
+Sub 1,000150000,Married,03,02,04,09,Single detached,2,2,Mortgage,Before 1939,990,200,No,Gas,1200,English
+Sub 1,000150000,Married,03,02,04,09,Single detached,2,2,Mortgage,1960-1969,3300,140,No,Oil,1200,English
+Sub 1,000150000,Married,03,02,04,10,Single detached,2,2,Mortgage,1950-1959,2700,150,No,Gas,0400,English
+Sub 1,000150000,Married,03,03,05,05,Single detached,2,1,Mortgage,Before 1939,2500,180,No,Gas,1200,English
+Sub 1,000150000,Married,03,03,05,05,Single detached,2,1,Mortgage,1960-1969,2500,120,No,Oil,1000,English
+Sub 1,000150000,Married,03,03,05,06,Single detached,4,2,Mortgage,1980-1989,1900,200,No,Oil,3000,Spanish
+Sub 1,000150000,Married,04,00,02,05,Single detached,2,2,Mortgage,1950-1959,930,130,No,Oil,0400,English
+Sub 1,000150000,Married,04,00,02,07,Single detached,2,2,Mortgage,1980-1989,1500,110,No,Gas,0750,English
+Sub 1,000150000,Married,04,00,02,08,Single detached,2,2,Mortgage,1970-1979,1400,090,No,Gas,0500,Other European
+Sub 1,000150000,Married,04,00,02,08,Single detached,2,2,Mortgage,1960-1969,3000,500,No,Gas,1000,English
+Sub 1,000150000,Married,04,00,02,09,Single detached,3,2,Mortgage,1940-1949,1200,200,No,Gas,0300,English
+Sub 1,000150000,Married,04,00,02,10,Single detached,2,2,Mortgage,1970-1979,850,080,No,Gas,0150,English
+Sub 1,000150000,Married,04,00,04,07,Single detached,4,3,Mortgage,1950-1959,1900,230,No,Oil,1200,English
+Sub 1,000150000,Married,04,00,05,10,Single detached,6,3,Mortgage,1950-1959,1000,200,No,Gas,0600,English
+Sub 1,000150000,Married,04,01,03,07,Single detached,2,2,Mortgage,2000-2004,2000,050,No,Gas,0700,Other European
+Sub 1,000150000,Married,04,01,03,08,Single detached,2,2,Mortgage,1950-1959,2500,190,No,Gas,1600,Asian Pacific
+Sub 1,000150000,Married,04,01,03,09,Single detached,2,2,Mortgage,1950-1959,2000,130,No,Oil,1100,English
+Sub 1,000150000,Married,04,01,03,10,Single detached,2,2,Mortgage,1980-1989,3300,240,No,Gas,6600,English
+Sub 1,000150000,Married,04,02,04,07,Single detached,2,1,Mortgage,1940-1949,3300,130,No,Gas,1500,English
+Sub 1,000150000,Married,04,02,04,07,Single detached,2,2,Mortgage,1950-1959,2100,110,No,Gas,1200,English
+Sub 1,000150000,Married,04,02,04,09,Single detached,2,1,Mortgage,1950-1959,3700,230,No,Oil,1800,English
+Sub 1,000150000,Married,04,02,04,09,Single detached,2,1,Mortgage,1960-1969,2000,200,No,Gas,1000,English
+Sub 1,000150000,Married,04,02,04,09,Single detached,2,1,Mortgage,2000-2004,1100,130,No,Gas,1000,English
+Sub 1,000150000,Married,04,02,04,10,Single detached,2,1,Mortgage,2005,1400,200,No,Gas,0850,English
+Sub 1,000150000,Married,04,02,04,10,Single detached,3,2,Mortgage,1960-1969,3300,220,No,Oil,0,English
+Sub 1,000150000,Married,04,02,05,08,Single detached,3,2,Mortgage,1960-1969,2500,130,No,Gas,1000,English
+Sub 1,000150000,Married,04,03,05,08,Single detached,2,1,Mortgage,1950-1959,2200,150,No,Gas,0400,English
+Sub 1,000150000,Married,04,03,05,08,Single detached,2,1,Mortgage,1960-1969,2400,240,No,Gas,1200,English
+Sub 1,000150000,Married,04,03,05,08,Single detached,2,2,Mortgage,Before 1939,2000,350,No,Gas,1000,English
+Sub 1,000150000,Married,04,03,05,08,Single detached,3,1,Mortgage,1940-1949,2600,140,No,Gas,1200,English
+Sub 1,000150000,Married,04,03,05,10,Single detached,2,1,Mortgage,1950-1959,4500,200,No,Gas,2500,English
+Sub 1,000150000,Married,04,04,06,06,Single attached,2,2,Mortgage,Before 1939,1800,110,No,Gas,1300,Other European
+Sub 1,000150000,Married,04,04,06,09,Single detached,2,2,Mortgage,Before 1939,1500,180,No,Gas,0800,English
+Sub 1,000150000,Married,04,04,06,09,Single detached,3,1,Mortgage,Before 1939,3300,200,No,Gas,2700,English
+Sub 1,000150000,Married,05,00,02,09,Single detached,2,1,Mortgage,1980-1989,3300,200,No,Gas,1200,English
+Sub 1,000150000,Married,05,00,02,09,Single detached,2,2,Mortgage,1970-1979,1900,150,No,Oil,1600,English
+Sub 1,000150000,Married,05,00,03,08,Single detached,1,2,Mortgage,1940-1949,1800,080,No,Oil,1200,English
+Sub 1,000150000,Married,05,01,03,07,Single detached,2,2,Mortgage,1960-1969,2600,200,No,Gas,0850,English
+Sub 1,000150000,Married,05,01,04,09,Single detached,2,2,Mortgage,Before 1939,3800,300,No,Gas,2800,English
+Sub 1,000150000,Married,05,02,04,08,Single attached,1,1,Mortgage,Before 1939,2800,100,No,Electricity,2000,Spanish
+Sub 1,000150000,Married,05,03,06,08,Single detached,4,2,Mortgage,1960-1969,4200,150,No,Gas,1500,English
+Sub 1,000150000,Married,08,00,02,12,Single detached,2,2,Mortgage,Before 1939,4700,400,No,Gas,4800,English
+Sub 1,000150000,Married,08,05,07,10,Single detached,2,1,Mortgage,1950-1959,6500,300,No,Oil,1700,English
+Sub 1,000150004,Married,02,00,02,06,Single detached,2,1,Mortgage,Before 1939,1800,130,No,Gas,3000,English
+Sub 1,000150004,Married,04,01,03,08,Single detached,2,2,Mortgage,1990-1999,2200,100,No,Gas,0500,English
+Sub 1,000150021,Married,03,00,02,08,Single detached,2,1,Mortgage,Before 1939,1100,140,No,Gas,0850,English
+Sub 1,000150100,Married,05,00,02,08,Single detached,4,2,Mortgage,1960-1969,1800,250,No,Oil,3500,English
+Sub 1,000150200,Male Head,05,04,06,08,Single detached,4,1,Mortgage,1940-1949,650,350,No,Oil,0600,English
+Sub 1,000150200,Male Head,08,00,09,21,Single detached,2,3,Mortgage,1960-1969,2100,310,No,Gas,3500,English
+Sub 1,000150200,Married,03,02,04,05,Single detached,3,1,Mortgage,1960-1969,900,150,No,Oil,0400,Spanish
+Sub 1,000150200,Married,04,00,02,10,Single detached,2,2,Mortgage,2005,2200,140,No,Gas,0770,English
+Sub 1,000150200,Married,04,02,07,07,Single detached,2,2,Mortgage,1940-1949,2100,250,Yes,Gas,1100,Other European
+Sub 1,000150200,Married,05,00,09,08,Single detached,5,3,Mortgage,Before 1939,1900,350,No,Oil,0900,English
+Sub 1,000150210,Female Head,08,00,06,21,Single detached,4,3,Mortgage,1950-1959,1900,300,No,Oil,1400,English
+Sub 1,000150254,Married,04,02,04,09,Single detached,2,1,Mortgage,1940-1949,1800,450,No,Gas,0690,English
+Sub 1,000150400,Married,03,00,02,05,Single detached,2,2,Mortgage,2000-2004,1900,250,No,Oil,0640,English
+Sub 1,000150400,Married,03,00,04,06,Single detached,5,3,Mortgage,1950-1959,500,300,No,Electricity,0560,Other European
+Sub 1,000150470,Married,04,01,04,08,Single detached,3,3,Mortgage,1950-1959,3000,360,No,Oil,0400,Other European
+Sub 1,000150500,Married,02,00,02,04,Single detached,3,2,Rented,1950-1959,1500,060,No,Oil,0,English
+Sub 1,000150500,Married,04,00,02,06,Single detached,2,2,Mortgage,1950-1959,2300,130,No,Gas,1600,English
+Sub 1,000150500,Married,04,03,05,10,Single detached,2,2,Mortgage,1960-1969,3400,300,No,Gas,3000,Other European
+Sub 1,000150600,Female Head,03,01,08,07,Single detached,3,3,Mortgage,Before 1939,1600,230,No,Gas,1800,English
+Sub 1,000150600,Married,05,03,06,08,Single detached,3,3,Mortgage,1950-1959,2000,110,No,Gas,1200,English
+Sub 1,000150700,Married,03,00,04,06,Single detached,3,3,Mortgage,1950-1959,1300,100,No,Gas,1500,Other European
+Sub 1,000150800,Married,03,00,03,08,Single attached,2,3,Mortgage,1980-1989,3380,130,No,Gas,0450,English
+Sub 1,000150800,Married,05,01,05,10,Single detached,4,3,Mortgage,1990-1999,820,140,No,Gas,0750,English
+Sub 1,000150840,Married,04,00,02,08,Single detached,2,2,Mortgage,1960-1969,520,130,No,Oil,1900,English
+Sub 1,000150900,Female Head,03,00,02,08,Single detached,2,2,Mortgage,1950-1959,1300,220,No,Oil,1200,English
+Sub 1,000150900,Married,03,00,04,07,Single detached,2,3,Mortgage,1970-1979,2800,320,No,Gas,1700,Asian Pacific
+Sub 1,000150900,Married,04,00,03,09,Single detached,3,0,Mortgage,1980-1989,810,160,No,Electricity,0670,English
+Sub 1,000151000,Female Head,04,00,02,06,Single detached,1,2,Mortgage,1970-1979,3500,150,No,Gas,1600,Other European
+Sub 1,000151000,Male Head,03,01,03,06,Single detached,2,1,Mortgage,1980-1989,1700,080,No,Gas,0670,English
+Sub 1,000151000,Married,03,00,02,07,Single detached,2,1,Mortgage,1960-1969,1700,160,No,Oil,0630,Other European
+Sub 1,000151000,Married,03,00,02,07,Single detached,2,2,Mortgage,Before 1939,2600,080,No,Gas,2000,English
+Sub 1,000151000,Married,03,00,02,08,Single detached,2,2,Mortgage,1970-1979,1200,040,No,Gas,0500,English
+Sub 1,000151000,Married,03,01,03,06,Single detached,2,2,Mortgage,2006,1600,220,No,Other,0600,English
+Sub 1,000151000,Married,03,01,03,08,Single detached,2,2,Mortgage,1950-1959,2800,150,No,Gas,1000,English
+Sub 1,000151000,Married,04,00,02,07,Single detached,2,2,Mortgage,1970-1979,2000,300,No,Gas,1000,English
+Sub 1,000151000,Married,04,00,03,08,Single detached,4,3,Mortgage,1950-1959,1100,290,No,Gas,0700,English
+Sub 1,000151000,Married,04,00,03,08,Single detached,4,3,Mortgage,1990-1999,1300,220,No,Oil,2500,English
+Sub 1,000151000,Married,04,02,04,08,Single detached,2,2,Mortgage,1980-1989,2300,150,No,Gas,1100,English
+Sub 1,000151000,Married,04,03,05,07,Single detached,2,2,Mortgage,1950-1959,4000,280,No,Oil,0350,English
+Sub 1,000151050,Married,03,01,03,09,Single detached,3,2,Mortgage,1960-1969,2000,380,No,Gas,1100,English
+Sub 1,000151060,Married,03,00,03,07,Single detached,3,3,Mortgage,1970-1979,960,060,No,Gas,0600,English
+Sub 1,000151100,Female Head,04,00,04,09,Single detached,2,1,Mortgage,Before 1939,600,350,No,Oil,1500,English
+Sub 1,000151200,Married,03,00,02,07,Single detached,2,2,Mortgage,1950-1959,1900,260,No,Oil,0900,English
+Sub 1,000151220,Married,02,00,02,07,Single attached,2,1,Outright,2000-2004,170,130,No,Gas,0,English
+Sub 1,000151400,Married,01,00,03,03,Single attached,2,1,Mortgage,1980-1989,830,240,No,Gas,1600,Asian Pacific
+Sub 1,000151400,Married,04,00,02,07,Single detached,1,2,Mortgage,Before 1939,570,040,No,Gas,0150,English
+Sub 1,000151400,Married,04,00,03,09,Single detached,2,2,Mortgage,Before 1939,1500,300,No,Electricity,0680,Other European
+Sub 1,000151400,Married,05,04,06,09,Single detached,2,2,Mortgage,Before 1939,1900,500,No,Electricity,3200,English
+Sub 1,000151420,Married,04,00,02,09,Single detached,2,1,Mortgage,1980-1989,400,130,No,Gas,0750,English
+Sub 1,000151460,Married,04,00,03,09,Single detached,1,2,Mortgage,1980-1989,1900,240,No,Gas,1000,English
+Sub 1,000151500,Married,03,00,02,07,Single detached,3,2,Mortgage,1950-1959,1300,050,No,Oil,0300,English
+Sub 1,000151500,Married,03,00,02,09,Single detached,3,1,Mortgage,2000-2004,210,170,No,Oil,1500,English
+Sub 1,000151500,Married,04,03,06,21,Single detached,3,3,Mortgage,Before 1939,2200,290,No,Gas,1200,Spanish
+Sub 1,000151600,Married,03,00,02,10,Single detached,2,1,Mortgage,1950-1959,1700,140,No,Gas,1000,English
+Sub 1,000151700,Married,03,00,03,08,Single detached,3,3,Mortgage,Before 1939,810,070,No,Gas,0520,English
+Sub 1,000151800,Married,02,02,04,05,Single attached,2,2,Mortgage,1950-1959,500,270,No,Gas,1400,Other European
+Sub 1,000151800,Married,03,00,03,05,Single detached,4,3,Mortgage,1960-1969,240,140,No,Oil,1200,English
+Sub 1,000151800,Married,03,02,04,07,Single detached,2,3,Mortgage,1960-1969,2300,350,No,Gas,1000,Other European
+Sub 1,000151800,Married,04,03,06,09,Single detached,3,3,Mortgage,2000-2004,1800,300,No,Gas,0600,Spanish
+Sub 1,000152000,Married,00,00,02,01,Single detached,2,2,Mortgage,1980-1989,260,080,No,Electricity,0800,Other European
+Sub 1,000152000,Married,02,01,03,05,Single detached,2,2,Mortgage,Before 1939,2500,200,No,Gas,0800,English
+Sub 1,000152000,Married,02,01,03,09,Single detached,2,2,Mortgage,1960-1969,850,180,No,Oil,0800,English
+Sub 1,000152000,Married,03,00,02,05,Single attached,2,2,Mortgage,1980-1989,600,050,No,Gas,0470,English
+Sub 1,000152000,Married,03,00,02,06,Single attached,2,2,Mortgage,1960-1969,1600,300,No,Gas,1200,English
+Sub 1,000152000,Married,03,00,02,06,Single detached,2,2,Mortgage,Before 1939,640,140,No,Gas,0790,Spanish
+Sub 1,000152000,Married,03,00,02,09,Single detached,2,2,Mortgage,Before 1939,730,040,No,Oil,0900,English
+Sub 1,000152000,Married,03,01,03,10,Single detached,2,2,Mortgage,1950-1959,1900,130,No,Gas,1900,English
+Sub 1,000152000,Married,03,02,04,04,Single detached,2,1,Mortgage,1950-1959,1500,130,No,Gas,1600,English
+Sub 1,000152000,Married,03,02,04,06,Single detached,2,2,Mortgage,1950-1959,4200,320,No,Gas,1200,English
+Sub 1,000152000,Married,03,02,04,06,Single detached,2,2,Mortgage,Before 1939,2600,160,No,Gas,0800,English
+Sub 1,000152000,Married,03,02,04,06,Single detached,2,2,Mortgage,2007,2500,150,No,Gas,1200,Spanish
+Sub 1,000152000,Married,03,02,04,07,Single detached,2,2,Mortgage,1950-1959,2800,160,No,Gas,1200,Spanish
+Sub 1,000152000,Married,03,03,05,07,Single detached,1,2,Mortgage,1980-1989,3400,500,No,Oil,3000,English
+Sub 1,000152000,Married,03,03,06,07,Single detached,3,3,Mortgage,1990-1999,1500,100,No,Gas,0600,English
+Sub 1,000152000,Married,04,00,02,08,Single detached,2,2,Mortgage,1980-1989,500,150,No,Oil,1400,English
+Sub 1,000152000,Married,04,00,03,05,Single detached,4,3,Mortgage,1950-1959,1500,290,No,Gas,0800,English
+Sub 1,000152000,Married,04,00,03,07,Single detached,2,3,Mortgage,1950-1959,4000,200,No,Oil,2500,Asian Pacific
+Sub 1,000152000,Married,04,00,03,08,Single detached,2,3,Mortgage,1960-1969,3800,300,No,Gas,3000,Asian Pacific
+Sub 1,000152000,Married,04,00,05,07,Single attached,2,2,Mortgage,1950-1959,670,120,No,Gas,0550,Other European
+Sub 1,000152000,Married,04,02,04,07,Single detached,2,2,Mortgage,2010,2100,480,No,Gas,0790,Other European
+Sub 1,000152000,Married,04,02,04,08,Single detached,2,2,Mortgage,2000-2004,1900,370,No,Gas,1100,English
+Sub 1,000152000,Married,04,02,04,08,Single detached,3,2,Mortgage,1950-1959,1200,100,No,Gas,0700,English
+Sub 1,000152000,Married,04,03,05,07,Single detached,2,2,Mortgage,1990-1999,2000,300,No,Gas,2000,English
+Sub 1,000152000,Married,04,03,06,07,Single detached,3,1,Mortgage,1970-1979,2600,150,No,Oil,1300,English
+Sub 1,000152000,Married,05,00,05,08,Single attached,1,1,Mortgage,Before 1939,440,300,No,Gas,6600,Other European
+Sub 1,000152000,Married,05,00,05,21,Single detached,4,3,Mortgage,1940-1949,6500,190,No,Gas,1000,English
+Sub 1,000152000,Married,05,02,04,09,Single detached,3,2,Mortgage,1950-1959,450,580,No,Oil,4000,Other European
+Sub 1,000152000,Married,08,04,06,10,Single detached,3,2,Mortgage,Before 1939,1400,100,No,Gas,1200,English
+Sub 1,000152050,Female Head,04,00,04,07,Single detached,4,3,Mortgage,1950-1959,1700,300,No,Oil,1300,English
+Sub 1,000152060,Married,08,00,02,10,Single detached,2,2,Mortgage,1960-1969,730,030,No,Gas,0550,English
+Sub 1,000152100,Married,03,01,03,08,Single detached,2,2,Mortgage,Before 1939,2900,150,No,Gas,1100,English
+Sub 1,000152100,Married,03,03,05,05,Single detached,3,3,Mortgage,Before 1939,3300,130,No,Oil,1500,English
+Sub 1,000152100,Married,04,00,02,08,Single detached,2,2,Mortgage,1970-1979,140,500,No,Oil,1500,English
+Sub 1,000152100,Married,04,00,02,21,Single attached,2,2,Mortgage,1960-1969,1800,300,No,Gas,0710,Other European
+Sub 1,000152100,Married,04,00,03,09,Single detached,4,2,Mortgage,1960-1969,940,350,No,Gas,0800,English
+Sub 1,000152140,Male Head,02,00,04,04,Single detached,1,2,Mortgage,1940-1949,2300,500,No,Gas,1600,English
+Sub 1,000152250,Married,04,02,04,08,Single detached,2,2,Mortgage,Before 1939,2200,180,No,Oil,1200,Other European
+Sub 1,000152300,Married,03,02,04,08,Single detached,3,3,Mortgage,1980-1989,1300,390,No,Oil,0,Other European
+Sub 1,000152300,Married,04,02,04,09,Single detached,2,2,Mortgage,1960-1969,2500,070,No,Oil,1200,Other European
+Sub 1,000152300,Married,05,02,04,11,Single detached,2,2,Mortgage,1950-1959,3300,300,No,Oil,1300,Spanish
+Sub 1,000152400,Married,03,00,02,06,Single detached,2,1,Mortgage,1940-1949,3300,100,No,Gas,2400,English
+Sub 1,000152400,Married,03,00,02,08,Single detached,2,2,Mortgage,1950-1959,1600,090,No,Oil,1500,English
+Sub 1,000152400,Married,04,00,03,08,Single detached,3,3,Mortgage,Before 1939,1100,120,No,Oil,1000,English
+Sub 1,000152460,Married,04,00,02,11,Single detached,2,2,Mortgage,1980-1989,1800,200,No,Electricity,1000,English
+Sub 1,000152500,Married,03,00,05,09,Single detached,4,3,Mortgage,1960-1969,3000,250,No,Oil,1100,Other European
+Sub 1,000152500,Married,03,01,05,06,Single attached,1,3,Mortgage,Before 1939,1400,200,No,Gas,1400,English
+Sub 1,000152540,Married,04,01,05,11,Single detached,3,2,Mortgage,Before 1939,1300,200,No,Gas,1200,English
+Sub 1,000152600,Married,01,00,02,04,Single detached,2,1,Mortgage,Before 1939,4200,100,No,Oil,1200,English
+Sub 1,000152600,Married,04,00,04,09,Single detached,3,2,Mortgage,1950-1959,2000,150,No,Gas,1500,Spanish
+Sub 1,000152600,Married,08,00,09,10,Single detached,5,2,Mortgage,1950-1959,3300,400,No,Oil,1300,English
+Sub 1,000152700,Married,04,00,04,07,Single detached,3,3,Mortgage,Before 1939,3000,170,Yes,Oil,1800,Spanish
+Sub 1,000152700,Married,04,01,04,08,Single detached,2,3,Mortgage,1950-1959,1400,240,No,Gas,0450,English
+Sub 1,000152700,Married,04,01,05,10,Single detached,3,3,Mortgage,1960-1969,2600,180,No,Oil,1500,Spanish
+Sub 1,000152700,Married,05,00,06,09,Single detached,2,3,Mortgage,1960-1969,4100,500,No,Gas,1400,English
+Sub 1,000152710,Married,05,00,02,09,Single detached,2,1,Mortgage,1970-1979,250,150,No,Oil,0,English
+Sub 1,000152720,Married,03,00,05,08,Single detached,3,3,Mortgage,1950-1959,3200,300,No,Oil,1800,Other European
+Sub 1,000152800,Married,03,00,02,06,Single attached,1,2,Rented,1980-1989,3200,260,No,Electricity,0,Other European
+Sub 1,000152800,Married,03,00,03,05,Single detached,3,3,Mortgage,1970-1979,1700,300,No,Oil,1600,English
+Sub 1,000152800,Married,04,00,02,07,Single attached,2,2,Mortgage,1980-1989,1950,300,No,Electricity,1200,Other European
+Sub 1,000152800,Married,04,02,05,11,Single detached,2,1,Mortgage,Before 1939,2200,200,No,Oil,1000,English
+Sub 1,000152900,Married,04,00,02,07,Single detached,2,1,Mortgage,1970-1979,1200,130,No,Oil,3000,English
+Sub 1,000152900,Married,05,00,03,10,Single detached,3,2,Mortgage,Before 1939,6500,180,No,Gas,6600,English
+Sub 1,000153000,Female Head,03,00,03,06,Single attached,2,2,Mortgage,1950-1959,2000,300,No,Oil,1000,English
+Sub 1,000153000,Male Head,04,00,02,07,Single detached,2,1,Mortgage,1950-1959,400,150,No,Gas,0600,English
+Sub 1,000153000,Married,02,00,02,04,Single detached,2,2,Mortgage,1950-1959,760,150,No,Gas,0600,English
+Sub 1,000153000,Married,02,00,02,10,Single detached,3,2,Mortgage,1980-1989,2000,080,No,Other,0830,English
+Sub 1,000153000,Married,02,00,03,07,Single detached,3,3,Mortgage,Before 1939,70,150,No,Gas,3000,Other European
+Sub 1,000153000,Married,02,01,04,03,Single attached,1,3,Mortgage,2006,3200,001,No,Gas,0400,Asian Pacific
+Sub 1,000153000,Married,02,02,04,04,Single detached,2,2,Mortgage,1960-1969,3300,330,No,Gas,1000,English
+Sub 1,000153000,Married,03,00,02,05,Single detached,2,2,Mortgage,1960-1969,2700,130,No,Gas,0360,Spanish
+Sub 1,000153000,Married,03,00,02,07,Single detached,2,2,Mortgage,1940-1949,900,130,No,Gas,0450,English
+Sub 1,000153000,Married,03,00,04,10,Single detached,0,3,Mortgage,1950-1959,1400,250,No,Gas,1200,English
+Sub 1,000153000,Married,03,01,03,05,Single detached,2,2,Mortgage,2000-2004,980,080,No,Gas,1000,English
+Sub 1,000153000,Married,03,01,03,06,Single detached,1,2,Mortgage,1970-1979,2500,300,No,Gas,1200,English
+Sub 1,000153000,Married,03,02,04,05,Single detached,2,2,Mortgage,1960-1969,2300,050,No,Oil,2000,Other European
+Sub 1,000153000,Married,03,02,04,10,Single detached,2,1,Mortgage,1950-1959,6500,250,No,Gas,3000,English
+Sub 1,000153000,Married,04,00,02,08,Single detached,2,2,Mortgage,1960-1969,1000,150,No,Gas,1500,English
+Sub 1,000153000,Married,04,00,02,08,Single detached,2,2,Mortgage,1980-1989,3000,580,No,Gas,0700,English
+Sub 1,000153000,Married,04,00,03,07,Single detached,2,2,Mortgage,Before 1939,1700,300,No,Gas,2000,Other
+Sub 1,000153000,Married,04,00,03,09,Single detached,3,3,Mortgage,1960-1969,2400,230,No,Oil,1100,English
+Sub 1,000153000,Married,04,00,03,10,Single detached,3,3,Rented,Before 1939,1400,230,No,Gas,0,Eng
